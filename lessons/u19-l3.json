@@ -1,0 +1,44 @@
+{
+  "id": "u19l3",
+  "title": "Unidade 19 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I open I close\n• I open the door I close the door\n• I open the window I close the window\n• I open the room I close the room\n• I open the house I close the house"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro a janela Eu fecho a janela",
+      "answer": "I open the window I close the window"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro a sala Eu fecho a sala",
+      "answer": "I open the room I close the room"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro o carro Eu fecho o carro",
+      "answer": "I open the house I close the house"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho que ir ao centro hoje de manhã Eu quero ir ao cinema hoje à tarde",
+      "answer": "I have to go downtown this morning I want to go to the movies this afternoon"
+    },
+    {
+      "type": "dictation",
+      "text": "How are you? He opens the office at 8:00"
+    },
+    {
+      "type": "dictation",
+      "text": "I open I close"
+    },
+    {
+      "type": "dictation",
+      "text": "I open the door I close the door"
+    }
+  ]
+}

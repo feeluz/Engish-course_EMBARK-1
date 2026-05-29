@@ -1,0 +1,91 @@
+{
+  "id": "u16l2",
+  "title": "Unidade 16 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• about = relatives\n• potato = grandmother\n• today = manager\n• apartment = slice\n• beach = grandparents\n• juice = tea\n• juice = coffee"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "about"
+        },
+        {
+          "id": "l2",
+          "text": "potato"
+        },
+        {
+          "id": "l3",
+          "text": "today"
+        },
+        {
+          "id": "l4",
+          "text": "apartment"
+        },
+        {
+          "id": "l5",
+          "text": "beach"
+        },
+        {
+          "id": "l6",
+          "text": "juice"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "relatives"
+        },
+        {
+          "id": "l2",
+          "text": "grandmother"
+        },
+        {
+          "id": "l3",
+          "text": "manager"
+        },
+        {
+          "id": "l4",
+          "text": "slice"
+        },
+        {
+          "id": "l5",
+          "text": "grandparents"
+        },
+        {
+          "id": "l6",
+          "text": "tea"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “juice” mean?",
+      "options": [
+        "coffee",
+        "coffee 1.",
+        "coffee 3.",
+        "coffee 2."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    },
+    {
+      "type": "dictation",
+      "text": "4- I have money"
+    }
+  ]
+}

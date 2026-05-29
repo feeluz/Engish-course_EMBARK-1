@@ -1,0 +1,99 @@
+{
+  "id": "u10l2",
+  "title": "Unidade 10 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• Weekend = also\n• Spanish = German\n• here = dog\n• every = neighbor\n• park = time\n• coffee = juice\n• tea = juice"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Weekend"
+        },
+        {
+          "id": "l2",
+          "text": "Spanish"
+        },
+        {
+          "id": "l3",
+          "text": "here"
+        },
+        {
+          "id": "l4",
+          "text": "every"
+        },
+        {
+          "id": "l5",
+          "text": "park"
+        },
+        {
+          "id": "l6",
+          "text": "coffee"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "also"
+        },
+        {
+          "id": "l2",
+          "text": "German"
+        },
+        {
+          "id": "l3",
+          "text": "dog"
+        },
+        {
+          "id": "l4",
+          "text": "neighbor"
+        },
+        {
+          "id": "l5",
+          "text": "time"
+        },
+        {
+          "id": "l6",
+          "text": "juice"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “tea” mean?",
+      "options": [
+        "juice",
+        "juice 3.",
+        "juice 2.",
+        "juice 1."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "dictation",
+      "text": "5- Do you want to go to the movies today? / park / downtown"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you __________________________________________________________________"
+    },
+    {
+      "type": "dictation",
+      "text": "4- I understand Spanish"
+    }
+  ]
+}

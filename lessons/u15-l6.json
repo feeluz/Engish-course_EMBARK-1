@@ -1,0 +1,109 @@
+{
+  "id": "u15l6",
+  "title": "Unidade 15 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Lesson 15\n• I help I know\n• I help my cousin Eu know how to speak English\n• I help my uncle I know how to go downtown\n• I help my aunt I know how to play chess"
+    },
+    {
+      "type": "dictation",
+      "text": "I have twenty-eight cousins"
+    },
+    {
+      "type": "dictation",
+      "text": "I have one hundred books. I have two hundred and f ifty CDs"
+    },
+    {
+      "type": "dictation",
+      "text": "neta"
+    },
+    {
+      "type": "dictation",
+      "text": "70 - seventy"
+    },
+    {
+      "type": "dictation",
+      "text": "I know how to speak German I know how to go downt own"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Lesson",
+        "15"
+      ],
+      "answer": "Lesson 15"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "help",
+        "I",
+        "know"
+      ],
+      "answer": "I help I know"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "help",
+        "my",
+        "cousin",
+        "Eu",
+        "know",
+        "how",
+        "to",
+        "speak",
+        "English"
+      ],
+      "answer": "I help my cousin Eu know how to speak English"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To help"
+        },
+        {
+          "id": "l2",
+          "text": "I have twenty"
+        },
+        {
+          "id": "l3",
+          "text": "To help"
+        },
+        {
+          "id": "l4",
+          "text": "To know"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "ajudar To know"
+        },
+        {
+          "id": "l2",
+          "text": "eight cousins"
+        },
+        {
+          "id": "l3",
+          "text": "ajudar"
+        },
+        {
+          "id": "l4",
+          "text": "saber, conhecer"
+        }
+      ]
+    }
+  ]
+}

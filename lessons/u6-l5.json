@@ -1,0 +1,45 @@
+{
+  "id": "u6l5",
+  "title": "Unidade 6 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Você fala Inglês? / Eu falo inglês com o professor.\n• Você gosta de comer pão com presunto no café da manhã?\n• Não tomo chá à noite, mas tomo de manhã.\n• Você estuda com seu amigo na escola?\n• Você trabalha com seu filho? / Eu trabalho em casa."
+    },
+    {
+      "type": "translation",
+      "prompt": "No, I don’t speak Portuguese. I speak English.",
+      "answer": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "translation",
+      "prompt": "No, I don’t work in the morning. I work at night.",
+      "answer": "Do you work in the morning?"
+    },
+    {
+      "type": "translation",
+      "prompt": "3. Do you drink coffee or milk for breakfast? / juice – coffee / juice milk.",
+      "answer": "2. Do you like to sleep in the morning? In the afternoon / in the evening."
+    },
+    {
+      "type": "translation",
+      "prompt": "9. Do you study English or Portuguese at school? / French – Portuguese",
+      "answer": "8. Do you eat bread and cheese at school? cheese ham / bread ham."
+    },
+    {
+      "type": "translation",
+      "prompt": "12. Do you eat cheese or ham for breakfast? cheese – bread / ham -bread",
+      "answer": "11. Do you study your English lessons alone? / French / Portuguese"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work in the morning?"
+    }
+  ]
+}

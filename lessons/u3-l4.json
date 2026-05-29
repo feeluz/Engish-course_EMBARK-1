@@ -1,0 +1,61 @@
+{
+  "id": "u3l4",
+  "title": "Unidade 3 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu trabalho de manhã eu brinco de manha",
+      "options": [
+        "I work in the morning I play in the morning",
+        "You work in the morning I play in the morning",
+        "I work in the morning I play in the morning 3.",
+        "morning the in play I morning the in work I"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu trabalho à tarde Eu brinco à tarde",
+      "options": [
+        "I work in the afternoon I play in the afternoon",
+        "You work in the afternoon I play in the afternoon",
+        "I work in the afternoon I play in the afternoon 3.",
+        "afternoon the in play I afternoon the in work I"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Você trabalha à noite Você brinca à noite",
+      "options": [
+        "evening the in play You evening the in work You",
+        "You work in the evening You play in the evening",
+        "I work in the evening You play in the evening",
+        "You work in the evening You play in the evening 3."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "I work I play"
+    },
+    {
+      "type": "dictation",
+      "text": "You work You play"
+    },
+    {
+      "type": "dictation",
+      "text": "I work here I play soccer"
+    },
+    {
+      "type": "dictation",
+      "text": "You work there You play tennis"
+    }
+  ]
+}

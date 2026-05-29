@@ -1,0 +1,82 @@
+{
+  "id": "u14l1",
+  "title": "Unidade 14 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 14: Conversation 14. Read the sentences, listen, and repeat.\n\nExamples:\n• Do you want to sell your bicycle?\n• 21- Do you buy ice cream every day? / candy / chocolate.\n• St. Patrick\n• St. Patrick brought Christianity"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to sell your bicycle?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don’t want to sell my bicycle.",
+      "options": [
+        "Do you want to sell your bicycle?",
+        "Do you want to sell your bicycle? 2.",
+        "Do you want to sell your bicycle? 3.",
+        "bicycle? your sell to want you Do"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "21- Do you buy ice cream every day? / candy / chocolate."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "22- Do you have a cat at home? / dog / fish.",
+      "options": [
+        "21- Do you buy ice cream every day? / candy / chocolate 3.",
+        "21- Do you buy ice cream every day? / candy / chocolate.",
+        "21- Do you buy ice cream every day? / candy / chocolate 2.",
+        "chocolate / candy / day? every cream ice buy you Do 21-."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "St. Patrick"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "São Patrício",
+      "options": [
+        "St. Patrick 3.",
+        "St. Patrick",
+        "St. Patrick 2.",
+        "St. Patrick 1."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "St",
+        ".",
+        "Patrick",
+        "brought",
+        "Christianity"
+      ],
+      "answer": "St. Patrick brought Christianity"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "to",
+        "Ireland",
+        "many",
+        "years",
+        "ago",
+        "."
+      ],
+      "answer": "to Ireland many years ago."
+    }
+  ]
+}

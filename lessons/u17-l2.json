@@ -1,0 +1,124 @@
+{
+  "id": "u17l2",
+  "title": "Unidade 17 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To read = ler To write\n• I read the e = mail I write e\n• Eu leio o e = mail Eu escrevo e\n• To read = ler\n• To write = escrever\n• Newspaper = jornal\n• Magazine = revista\n• Letter = carta"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To read"
+        },
+        {
+          "id": "l2",
+          "text": "I read the e"
+        },
+        {
+          "id": "l3",
+          "text": "Eu leio o e"
+        },
+        {
+          "id": "l4",
+          "text": "To read"
+        },
+        {
+          "id": "l5",
+          "text": "To write"
+        },
+        {
+          "id": "l6",
+          "text": "Newspaper"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "ler To write"
+        },
+        {
+          "id": "l2",
+          "text": "mail I write e"
+        },
+        {
+          "id": "l3",
+          "text": "mail Eu escrevo e"
+        },
+        {
+          "id": "l4",
+          "text": "ler"
+        },
+        {
+          "id": "l5",
+          "text": "escrever"
+        },
+        {
+          "id": "l6",
+          "text": "jornal"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Magazine” mean?",
+      "options": [
+        "revista 3.",
+        "revista 2.",
+        "revista 1.",
+        "revista"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Letter” mean?",
+      "options": [
+        "carta 2.",
+        "carta 3.",
+        "carta",
+        "carta 1."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “mail” mean?",
+      "options": [
+        "correio 1.",
+        "correio 2.",
+        "correio 3.",
+        "correio"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Noon” mean?",
+      "options": [
+        "meio dia 3.",
+        "meio dia 1.",
+        "meio dia 2.",
+        "meio dia"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "What time is it?"
+    },
+    {
+      "type": "dictation",
+      "text": "I get up at seven thirty I work until five thirt y"
+    },
+    {
+      "type": "dictation",
+      "text": "To write - escrever"
+    }
+  ]
+}

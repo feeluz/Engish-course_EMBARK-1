@@ -1,0 +1,64 @@
+{
+  "id": "u10l4",
+  "title": "Unidade 10 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you understand Spanish?\n• Do you want to go downtown with me now?\n• Do you speak English with your brother?\n• 1- Do you understand Spanish? / German / Chinese\n• 2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to go downtown with me now?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak English with your brother?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        "Do",
+        "you",
+        "understand",
+        "Spanish",
+        "?",
+        "German",
+        "Chinese"
+      ],
+      "answer": "1- Do you understand Spanish? / German / Chinese"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "2",
+        "Do",
+        "you",
+        "speak",
+        "English",
+        "at",
+        "home",
+        "?",
+        "Portuguese",
+        "French"
+      ],
+      "answer": "2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you speak English at home? / Portuguese / French"
+    }
+  ]
+}

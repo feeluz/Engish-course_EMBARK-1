@@ -1,0 +1,88 @@
+{
+  "id": "u4l2",
+  "title": "Unidade 4 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• there = at night\n• Portuguese = alone\n• teacher = now\n• bread = glass\n• children = my\n• o usa with = com"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "there"
+        },
+        {
+          "id": "l2",
+          "text": "Portuguese"
+        },
+        {
+          "id": "l3",
+          "text": "teacher"
+        },
+        {
+          "id": "l4",
+          "text": "bread"
+        },
+        {
+          "id": "l5",
+          "text": "children"
+        },
+        {
+          "id": "l6",
+          "text": "o usa with"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "at night"
+        },
+        {
+          "id": "l2",
+          "text": "alone"
+        },
+        {
+          "id": "l3",
+          "text": "now"
+        },
+        {
+          "id": "l4",
+          "text": "glass"
+        },
+        {
+          "id": "l5",
+          "text": "my"
+        },
+        {
+          "id": "l6",
+          "text": "com"
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "I drink coffee in the morning."
+    },
+    {
+      "type": "dictation",
+      "text": "I eat cheese in the afternoon."
+    },
+    {
+      "type": "dictation",
+      "text": "I work with my father."
+    },
+    {
+      "type": "dictation",
+      "text": "I play the piano."
+    },
+    {
+      "type": "dictation",
+      "text": "4- I work with my friend at school"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "u8l5",
+  "title": "Unidade 8 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu quero um copo de água, por favor. / Obrigada.\n• Eu não trabalho sozinho, trabalho com meu irmão.\n• Eu durmo à tarde. / Eu não durmo de manhã.\n• Eu não bebo café à noite. / Eu bebo leite ou chá.\n• O que você quer? Eu quero ir à igreja de manhã."
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t want to go downtown. I want to go to the movies.",
+      "answer": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "translation",
+      "prompt": "8- Do you drink a cup of tea in the afternoon? / coffee / milk",
+      "answer": "7- Do you study English at night? / in the morning / in the afternoon."
+    },
+    {
+      "type": "translation",
+      "prompt": "10- Do you like to drink coffee or juice for breakfast? / coffee – tea / milj – juice",
+      "answer": "9- Do you play the piano? / guitar / violin."
+    },
+    {
+      "type": "translation",
+      "prompt": "Valentine’s Day is a special day",
+      "answer": "Dia dos namorados"
+    },
+    {
+      "type": "translation",
+      "prompt": "para crianças e adultos.",
+      "answer": "for children and adults."
+    },
+    {
+      "type": "translation",
+      "prompt": "e presentes para os amigos.",
+      "answer": "and presents for friends."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "dictation",
+      "text": "7- Do you study English at night? / in the morning / in the afternoon."
+    }
+  ]
+}

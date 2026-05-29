@@ -1,0 +1,44 @@
+{
+  "id": "u15l3",
+  "title": "Unidade 15 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Lesson 15\n• I help I know\n• I help my cousin Eu know how to speak English\n• I help my uncle I know how to go downtown\n• I help my aunt I know how to play chess"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo meu primo Eu sei falar inglês",
+      "answer": "I help my cousin Eu know how to speak English"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo meu tio Eu sei ir ao centro",
+      "answer": "I help my uncle I know how to go downtown"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo minha tia Eu sei jogar xadrez",
+      "answer": "I help my aunt I know how to play chess"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo meus parentes Eu sei escrever seu nome",
+      "answer": "I help my relatives I know how to spell your na me"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you know my grandfather?"
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 15"
+    },
+    {
+      "type": "dictation",
+      "text": "I help I know"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "u20l2",
+  "title": "Unidade 20 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• Bathroom = bedroom\n• flower = tree\n• more = pie\n• food = window\n• door = until"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Bathroom"
+        },
+        {
+          "id": "l2",
+          "text": "flower"
+        },
+        {
+          "id": "l3",
+          "text": "more"
+        },
+        {
+          "id": "l4",
+          "text": "food"
+        },
+        {
+          "id": "l5",
+          "text": "door"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "bedroom"
+        },
+        {
+          "id": "l2",
+          "text": "tree"
+        },
+        {
+          "id": "l3",
+          "text": "pie"
+        },
+        {
+          "id": "l4",
+          "text": "window"
+        },
+        {
+          "id": "l5",
+          "text": "until"
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "have Easter egg hunt,"
+    },
+    {
+      "type": "dictation",
+      "text": "and go to church in this day."
+    },
+    {
+      "type": "dictation",
+      "text": "American kids believe that"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to drink cold milk and he wants hot milk, please."
+    },
+    {
+      "type": "dictation",
+      "text": "7- What do you like to eat? / read / write"
+    },
+    {
+      "type": "dictation",
+      "text": "Easter"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "u12l6",
+  "title": "Unidade 12 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Do you work with your brother?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Do",
+        "you",
+        "work",
+        "with",
+        "your",
+        "brother",
+        "?"
+      ],
+      "answer": "Do you work with your brother?"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Farm"
+        },
+        {
+          "id": "l2",
+          "text": "office"
+        },
+        {
+          "id": "l3",
+          "text": "boss"
+        },
+        {
+          "id": "l4",
+          "text": "rice"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "city"
+        },
+        {
+          "id": "l2",
+          "text": "day"
+        },
+        {
+          "id": "l3",
+          "text": "family"
+        },
+        {
+          "id": "l4",
+          "text": "sometimes"
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    }
+  ]
+}

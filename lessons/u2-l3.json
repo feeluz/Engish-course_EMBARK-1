@@ -1,0 +1,44 @@
+{
+  "id": "u2l3",
+  "title": "Unidade 2 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I speak I study\n• You speak You study\n• I speak English I study English\n• I speak Spanish I study Spanish\n• You speak Portuguese You study Portuguese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu falo Inglês Eu estudo inglês",
+      "answer": "I speak English I study English"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu falo Espanhol Eu estudo Espanhol",
+      "answer": "I speak Spanish I study Spanish"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você fala português Você estuda Português",
+      "answer": "You speak Portuguese You study Portuguese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você fala Francês Você estuda Francês",
+      "answer": "You speak French You study French"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak I study"
+    },
+    {
+      "type": "dictation",
+      "text": "You speak You study"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak English I study English"
+    }
+  ]
+}

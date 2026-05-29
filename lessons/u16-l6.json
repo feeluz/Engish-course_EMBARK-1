@@ -1,0 +1,109 @@
+{
+  "id": "u16l6",
+  "title": "Unidade 16 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Do you prefer to speak English or Spanish?\n• 6- Do you eat popcorn at the movies? / candy / chocolate\n• 4- I have money"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    },
+    {
+      "type": "dictation",
+      "text": "4- I have money"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Do",
+        "you",
+        "prefer",
+        "to",
+        "speak",
+        "English",
+        "or",
+        "Spanish",
+        "?"
+      ],
+      "answer": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "6",
+        "Do",
+        "you",
+        "eat",
+        "popcorn",
+        "at",
+        "the",
+        "movies",
+        "?",
+        "candy",
+        "chocolate"
+      ],
+      "answer": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "4",
+        "I",
+        "have",
+        "money"
+      ],
+      "answer": "4- I have money"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "about"
+        },
+        {
+          "id": "l2",
+          "text": "potato"
+        },
+        {
+          "id": "l3",
+          "text": "today"
+        },
+        {
+          "id": "l4",
+          "text": "apartment"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "relatives"
+        },
+        {
+          "id": "l2",
+          "text": "grandmother"
+        },
+        {
+          "id": "l3",
+          "text": "manager"
+        },
+        {
+          "id": "l4",
+          "text": "slice"
+        }
+      ]
+    }
+  ]
+}

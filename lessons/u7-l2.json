@@ -1,0 +1,124 @@
+{
+  "id": "u7l2",
+  "title": "Unidade 7 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To want = querer\n• To go = ir\n• Office = Escritório\n• Bank = Banco\n• Movies = Cinema\n• Park = Parque\n• Church = Igreja\n• Downtown = Centro da"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To want"
+        },
+        {
+          "id": "l2",
+          "text": "To go"
+        },
+        {
+          "id": "l3",
+          "text": "Office"
+        },
+        {
+          "id": "l4",
+          "text": "Bank"
+        },
+        {
+          "id": "l5",
+          "text": "Movies"
+        },
+        {
+          "id": "l6",
+          "text": "Park"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "querer"
+        },
+        {
+          "id": "l2",
+          "text": "ir"
+        },
+        {
+          "id": "l3",
+          "text": "Escritório"
+        },
+        {
+          "id": "l4",
+          "text": "Banco"
+        },
+        {
+          "id": "l5",
+          "text": "Cinema"
+        },
+        {
+          "id": "l6",
+          "text": "Parque"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Church” mean?",
+      "options": [
+        "Igreja 1.",
+        "Igreja 2.",
+        "Igreja",
+        "Igreja 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Downtown” mean?",
+      "options": [
+        "Centro da",
+        "Centro da 2.",
+        "Centro da 3.",
+        "Centro da 1."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Boss” mean?",
+      "options": [
+        "Chefe 1.",
+        "Chefe",
+        "Chefe 3.",
+        "Chefe 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Manager” mean?",
+      "options": [
+        "Gerente",
+        "Gerente 2.",
+        "Gerente 1.",
+        "Gerente 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "I want to sleep now. I want to go to church."
+    },
+    {
+      "type": "dictation",
+      "text": "I want to study French. I want to go downtown."
+    },
+    {
+      "type": "dictation",
+      "text": "I want to work at night. I want to go home."
+    }
+  ]
+}

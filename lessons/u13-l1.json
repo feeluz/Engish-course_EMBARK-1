@@ -1,0 +1,96 @@
+{
+  "id": "u13l1",
+  "title": "Unidade 13 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 13: To buy / To sell. Read the sentences, listen, and repeat.\n\nExamples:\n• I buy I sell\n• I want to buy a house I want to sell my bicycle\n• I want to buy a new house I need to sell my stor e\n• I want to buy a car I want to sell my house"
+    },
+    {
+      "type": "dictation",
+      "text": "I buy I sell"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu compro Eu vendo",
+      "options": [
+        "I buy I sell",
+        "You buy I sell",
+        "I buy I sell 3.",
+        "sell I buy I"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "I want to buy a house I want to sell my bicycle"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I quero comprar uma casa Eu quero vender minha b icicleta",
+      "options": [
+        "I want to buy a house I want to sell my bicycle 3.",
+        "bicycle my sell to want I house a buy to want I",
+        "You want to buy a house I want to sell my bicycle",
+        "I want to buy a house I want to sell my bicycle"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "I want to buy a new house I need to sell my stor e"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu quero comprar uma casa nova Eu preciso vender minha loja",
+      "options": [
+        "I want to buy a new house I need to sell my stor e 3.",
+        "You want to buy a new house I need to sell my stor e",
+        "I want to buy a new house I need to sell my stor e",
+        "e stor my sell to need I house new a buy to want I"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "buy",
+        "a",
+        "car",
+        "I",
+        "want",
+        "to",
+        "sell",
+        "my",
+        "house"
+      ],
+      "answer": "I want to buy a car I want to sell my house"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "buy",
+        "a",
+        "new",
+        "car",
+        "I",
+        "need",
+        "to",
+        "sell",
+        "my",
+        "car"
+      ],
+      "answer": "I want to buy a new car I need to sell my car"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "u11l1",
+  "title": "Unidade 11 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 11: To need / To prefer. Read the sentences, listen, and repeat.\n\nExamples:\n• I need I prefer\n• I need to work I prefer my home\n• I need to study I prefer my school\n• I need to go I prefer my work"
+    },
+    {
+      "type": "dictation",
+      "text": "I need I prefer"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu preciso Eu prefiro",
+      "options": [
+        "You need I prefer",
+        "I need I prefer 3.",
+        "prefer I need I",
+        "I need I prefer"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "I need to work I prefer my home"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu preciso trabalhar Eu prefiro minha casa",
+      "options": [
+        "I need to work I prefer my home",
+        "I need to work I prefer my home 3.",
+        "You need to work I prefer my home",
+        "home my prefer I work to need I"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "I need to study I prefer my school"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu preciso estudar Eu prefiro minha escola",
+      "options": [
+        "I need to study I prefer my school",
+        "school my prefer I study to need I",
+        "I need to study I prefer my school 3.",
+        "You need to study I prefer my school"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "need",
+        "to",
+        "go",
+        "I",
+        "prefer",
+        "my",
+        "work"
+      ],
+      "answer": "I need to go I prefer my work"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "need",
+        "to",
+        "sleep",
+        "I",
+        "prefer",
+        "my",
+        "city"
+      ],
+      "answer": "I need to sleep I prefer my city"
+    }
+  ]
+}

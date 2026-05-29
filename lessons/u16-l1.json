@@ -1,0 +1,61 @@
+{
+  "id": "u16l1",
+  "title": "Unidade 16 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 16: Conversation 16. Read the sentences, listen, and repeat.\n\nExamples:\n• Do you prefer to speak English or Spanish?\n• 6- Do you eat popcorn at the movies? / candy / chocolate\n• 4- I have money"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I prefer to speak English. I don’t speak Spanish.",
+      "options": [
+        "Spanish? or English speak to prefer you Do",
+        "Do you prefer to speak English or Spanish? 3.",
+        "Do you prefer to speak English or Spanish?",
+        "Do you prefer to speak English or Spanish? 2."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "7- Do you like to drink tea or coffee in the morning? / juice-tea / juice – coffee",
+      "options": [
+        "6- Do you drink popcorn at the movies? / candy / chocolate",
+        "6- Do you eat popcorn at the movies? / candy / chocolate 3.",
+        "chocolate / candy / movies? the at popcorn eat you Do 6-",
+        "6- Do you eat popcorn at the movies? / candy / chocolate"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "4- I have money"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": ", but I don’t want to go to the movies.",
+      "options": [
+        "4- You have money",
+        "4- I have money 3.",
+        "4- I have money",
+        "money have I 4-"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    }
+  ]
+}

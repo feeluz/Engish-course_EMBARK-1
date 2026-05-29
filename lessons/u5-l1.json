@@ -1,0 +1,87 @@
+{
+  "id": "u5l1",
+  "title": "Unidade 5 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 5: To like / To Sleep. Read the sentences, listen, and repeat.\n\nExamples:\n• I like I sleep\n• You like You sleep\n• I like my car I sleep at home\n• I like my house I sleep at night"
+    },
+    {
+      "type": "dictation",
+      "text": "I like I sleep"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu gosto Eu durmo",
+      "options": [
+        "I like I sleep",
+        "sleep I like I",
+        "I like I sleep 3.",
+        "You like I sleep"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "You like You sleep"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Você gosta Você dorme",
+      "options": [
+        "You like You sleep 3.",
+        "You like You sleep",
+        "I like You sleep",
+        "sleep You like You"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "I like my car I sleep at home"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu gosto do meu carro Eu gosto de dormir em casa",
+      "options": [
+        "I like my car I sleep at home 3.",
+        "home at sleep I car my like I",
+        "I like my car I sleep at home",
+        "You like my car I sleep at home"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "like",
+        "my",
+        "house",
+        "I",
+        "sleep",
+        "at",
+        "night"
+      ],
+      "answer": "I like my house I sleep at night"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "like",
+        "you",
+        "I",
+        "sleep",
+        "in",
+        "the",
+        "afternoon"
+      ],
+      "answer": "I like you I sleep in the afternoon"
+    }
+  ]
+}

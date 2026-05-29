@@ -1,0 +1,44 @@
+{
+  "id": "u1l3",
+  "title": "Unidade 1 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Lesson 1\n• I drink I eat\n• You drink You eat\n• I drink water I eat bread\n• I drink juice I eat cheese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você bebe Você come",
+      "answer": "You drink You eat"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu bebo água Eu como pão",
+      "answer": "I drink water I eat bread"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu bebo suco Eu como queijo",
+      "answer": "I drink juice I eat cheese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você bebe café Você come peixe",
+      "answer": "You drink coffee You eat Fish"
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 1"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink I eat"
+    },
+    {
+      "type": "dictation",
+      "text": "You drink You eat"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "u19l5",
+  "title": "Unidade 19 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Às vezes vou a cinema com minha esposa\n• Você sabe o que eu preciso comprar?\n• Eu não gosto de comer pão no café da manha\n• Quantas galinhas você tem em sua fazenda?\n• O que você quer beber hoje de manhã?"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro Eu fecho",
+      "answer": "I open I close"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro a porta Eu fecho a porta",
+      "answer": "I open the door I close the door"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro a janela Eu fecho a janela",
+      "answer": "I open the window I close the window"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro a sala Eu fecho a sala",
+      "answer": "I open the room I close the room"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu abro o carro Eu fecho o carro",
+      "answer": "I open the house I close the house"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho que ir ao centro hoje de manhã Eu quero ir ao cinema hoje à tarde",
+      "answer": "I have to go downtown this morning I want to go to the movies this afternoon"
+    },
+    {
+      "type": "dictation",
+      "text": "I open I close"
+    },
+    {
+      "type": "dictation",
+      "text": "I open the door I close the door"
+    }
+  ]
+}

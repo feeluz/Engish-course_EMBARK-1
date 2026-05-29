@@ -1,0 +1,124 @@
+{
+  "id": "u1l2",
+  "title": "Unidade 1 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To drink = beber To eat\n• To drink = beber, tomar\n• To eat = comer\n• Coffee = Café Tea\n• Milk = Leite Juice\n• Water = Água Soda\n• Refrigerante Fish = Peixe Meat\n• Cheese = Queijo Ham"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To drink"
+        },
+        {
+          "id": "l2",
+          "text": "To drink"
+        },
+        {
+          "id": "l3",
+          "text": "To eat"
+        },
+        {
+          "id": "l4",
+          "text": "Coffee"
+        },
+        {
+          "id": "l5",
+          "text": "Milk"
+        },
+        {
+          "id": "l6",
+          "text": "Water"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "beber To eat"
+        },
+        {
+          "id": "l2",
+          "text": "beber, tomar"
+        },
+        {
+          "id": "l3",
+          "text": "comer"
+        },
+        {
+          "id": "l4",
+          "text": "Café Tea"
+        },
+        {
+          "id": "l5",
+          "text": "Leite Juice"
+        },
+        {
+          "id": "l6",
+          "text": "Água Soda"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Refrigerante Fish” mean?",
+      "options": [
+        "Peixe Meat 3.",
+        "Peixe Meat",
+        "Peixe Mdrink",
+        "Peixe Meat 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Cheese” mean?",
+      "options": [
+        "Queijo Ham 2.",
+        "Queijo Ham 1.",
+        "Queijo Ham 3.",
+        "Queijo Ham"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Presunto Bread” mean?",
+      "options": [
+        "Pão And 2.",
+        "Pão And",
+        "Pão And 3.",
+        "Pão And 1."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “I” mean?",
+      "options": [
+        "Eu You 1.",
+        "Eu You 2.",
+        "Eu You 3.",
+        "Eu You"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "You drink coffee You eat Fish"
+    },
+    {
+      "type": "dictation",
+      "text": "You drink milk You eat meat"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink coffee and milk I eat bread and ham"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "u17l5",
+  "title": "Unidade 17 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu gosto de escrever um e-mail para meus pais todas as semanas.\n• Eu não quero falar com seus parentes hoje.\n• Você compra muitas revistas no mercado?\n• A que horas você se levanta? / Eu me levanto às sete horas.\n• Eu quero ir à fazenda com meus filhos amanhã"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio Eu escrevo",
+      "answer": "I read I write"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio o jornal Eu escreve muitos e-mails",
+      "answer": "I read the newspaper I write many e-mails"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio o e-mail Eu escrevo e-mails para meu na morado",
+      "answer": "I read the e-mail I write e-mails to my boyfrie nd"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio uma revista Eu escrevo para minha namor ada",
+      "answer": "I read a magazine I write to my girlfriend"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio para os meus filhos Eu escrevo um e-mail para meu chefe",
+      "answer": "I read to my children I write an e-mail to my bo ss"
+    },
+    {
+      "type": "translation",
+      "prompt": "Que horas são?",
+      "answer": "What time is it?"
+    },
+    {
+      "type": "dictation",
+      "text": "I read I write"
+    },
+    {
+      "type": "dictation",
+      "text": "I read the newspaper I write many e-mails"
+    }
+  ]
+}

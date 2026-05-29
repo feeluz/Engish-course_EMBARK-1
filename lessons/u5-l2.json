@@ -1,0 +1,124 @@
+{
+  "id": "u5l2",
+  "title": "Unidade 5 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To like = Gostar To Sleep\n• To like = Gostar\n• To sleep = Dormir\n• Book = Livro\n• Car = Carro\n• House = Casa\n• Game = Jogo\n• Big = Grande"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To like"
+        },
+        {
+          "id": "l2",
+          "text": "To like"
+        },
+        {
+          "id": "l3",
+          "text": "To sleep"
+        },
+        {
+          "id": "l4",
+          "text": "Book"
+        },
+        {
+          "id": "l5",
+          "text": "Car"
+        },
+        {
+          "id": "l6",
+          "text": "House"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Gostar To Sleep"
+        },
+        {
+          "id": "l2",
+          "text": "Gostar"
+        },
+        {
+          "id": "l3",
+          "text": "Dormir"
+        },
+        {
+          "id": "l4",
+          "text": "Livro"
+        },
+        {
+          "id": "l5",
+          "text": "Carro"
+        },
+        {
+          "id": "l6",
+          "text": "Casa"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Game” mean?",
+      "options": [
+        "Jogo 2.",
+        "Jogo",
+        "Jogo 1.",
+        "Jogo 3."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Big” mean?",
+      "options": [
+        "Grande",
+        "Grande 3.",
+        "Grande 1.",
+        "Grande 2."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Small” mean?",
+      "options": [
+        "Pequeno 3.",
+        "Pequeno 2.",
+        "Pequeno",
+        "Pequeno 1."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “New” mean?",
+      "options": [
+        "Novo",
+        "Novo 1.",
+        "Novo 3.",
+        "Novo 2."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like to study alone? I like study with y ou"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like to eat? I like to speak with you"
+    },
+    {
+      "type": "dictation",
+      "text": "House - Casa"
+    }
+  ]
+}

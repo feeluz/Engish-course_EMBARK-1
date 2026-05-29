@@ -1,0 +1,120 @@
+{
+  "id": "u6l2",
+  "title": "Unidade 6 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• Every day = child\n• friend = with me\n• book = this\n• big = small\n• new = old\n• juice = coffee\n• French = Portuguese\n• study = work"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Every day"
+        },
+        {
+          "id": "l2",
+          "text": "friend"
+        },
+        {
+          "id": "l3",
+          "text": "book"
+        },
+        {
+          "id": "l4",
+          "text": "big"
+        },
+        {
+          "id": "l5",
+          "text": "new"
+        },
+        {
+          "id": "l6",
+          "text": "juice"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "child"
+        },
+        {
+          "id": "l2",
+          "text": "with me"
+        },
+        {
+          "id": "l3",
+          "text": "this"
+        },
+        {
+          "id": "l4",
+          "text": "small"
+        },
+        {
+          "id": "l5",
+          "text": "old"
+        },
+        {
+          "id": "l6",
+          "text": "coffee"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “French” mean?",
+      "options": [
+        "Portuguese",
+        "Portuguese 3.",
+        "Portuguese 2.",
+        "Portuguese 1."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “study” mean?",
+      "options": [
+        "work",
+        "work 2.",
+        "work 1.",
+        "work 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “cheese” mean?",
+      "options": [
+        "bread 1.",
+        "bread 2.",
+        "bread",
+        "bread 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “ham” mean?",
+      "options": [
+        "bread 2.",
+        "bread 1.",
+        "bread",
+        "bread 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work in the morning?"
+    }
+  ]
+}

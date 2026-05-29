@@ -1,0 +1,91 @@
+{
+  "id": "u15l1",
+  "title": "Unidade 15 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 15: To help / To know. Read the sentences, listen, and repeat.\n\nExamples:\n• Lesson 15\n• I help I know\n• I help my cousin Eu know how to speak English\n• I help my uncle I know how to go downtown"
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 15"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "To help – ajudar To know - saber",
+      "options": [
+        "Lesson 15 2.",
+        "Lesson 15",
+        "Lesson 15 1.",
+        "Lesson 15 3."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "I help I know"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu ajudo Eu sei",
+      "options": [
+        "know I help I",
+        "I help I know",
+        "I help I know 3.",
+        "You help I know"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "I help my cousin Eu know how to speak English"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu ajudo meu primo Eu sei falar inglês",
+      "options": [
+        "I help my cousin Eu know how to speak English 3.",
+        "I help my cousin Eu know how to speak English",
+        "You help my cousin Eu know how to speak English",
+        "English speak to how know Eu cousin my help I"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "help",
+        "my",
+        "uncle",
+        "I",
+        "know",
+        "how",
+        "to",
+        "go",
+        "downtown"
+      ],
+      "answer": "I help my uncle I know how to go downtown"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "help",
+        "my",
+        "aunt",
+        "I",
+        "know",
+        "how",
+        "to",
+        "play",
+        "chess"
+      ],
+      "answer": "I help my aunt I know how to play chess"
+    }
+  ]
+}

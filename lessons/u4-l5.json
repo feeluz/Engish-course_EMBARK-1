@@ -1,0 +1,45 @@
+{
+  "id": "u4l5",
+  "title": "Unidade 4 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu trabalho no mercado à tarde.\n• Eu não bebo café e leite com meus filhos à noite.\n• Eu não bebo chá, mas eu bebo suco. / Obrigado.\n• Eu estudo com meu filho e minha filha de manhã.\n• Eu não trabalho com meu pai à noite."
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t drink coffee in the morning, but I drink tea.",
+      "answer": "I drink coffee in the morning."
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t eat cheese in the afternoon, but I eat bread and ham.",
+      "answer": "I eat cheese in the afternoon."
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t work with my father, but I work with my brother.",
+      "answer": "I work with my father."
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t play the piano, but I play the guitar.",
+      "answer": "I play the piano."
+    },
+    {
+      "type": "translation",
+      "prompt": ". / I don’t work here",
+      "answer": "4- I work with my friend at school"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink coffee in the morning."
+    },
+    {
+      "type": "dictation",
+      "text": "I eat cheese in the afternoon."
+    }
+  ]
+}

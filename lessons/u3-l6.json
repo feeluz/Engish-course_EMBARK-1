@@ -1,0 +1,107 @@
+{
+  "id": "u3l6",
+  "title": "Unidade 3 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I work I play\n• You work You play\n• I work here I play soccer\n• You work there You play tennis\n• I work alone I play volleyball with my friend"
+    },
+    {
+      "type": "dictation",
+      "text": "I work in the morning I play in the morning"
+    },
+    {
+      "type": "dictation",
+      "text": "I work in the afternoon I play in the afternoon"
+    },
+    {
+      "type": "dictation",
+      "text": "You work in the evening You play in the evening"
+    },
+    {
+      "type": "dictation",
+      "text": "Teacher- Professor"
+    },
+    {
+      "type": "dictation",
+      "text": "At- Em"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "work",
+        "I",
+        "play"
+      ],
+      "answer": "I work I play"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "You",
+        "work",
+        "You",
+        "play"
+      ],
+      "answer": "You work You play"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "work",
+        "here",
+        "I",
+        "play",
+        "soccer"
+      ],
+      "answer": "I work here I play soccer"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To Work"
+        },
+        {
+          "id": "l2",
+          "text": "To work"
+        },
+        {
+          "id": "l3",
+          "text": "To play"
+        },
+        {
+          "id": "l4",
+          "text": "Friend"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Trabalhar To Play"
+        },
+        {
+          "id": "l2",
+          "text": "Trabalhar"
+        },
+        {
+          "id": "l3",
+          "text": "jogar, brincar, tocar"
+        },
+        {
+          "id": "l4",
+          "text": "Amigo"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "u6l6",
+  "title": "Unidade 6 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Do you speak Portuguese at home?\n• Do you work in the morning?\n• 2. Do you like to sleep in the morning? In the afternoon / in the evening.\n• 8. Do you eat bread and cheese at school? cheese ham / bread ham.\n• 11. Do you study your English lessons alone? / French / Portuguese"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work in the morning?"
+    },
+    {
+      "type": "dictation",
+      "text": "2. Do you like to sleep in the morning? In the afternoon / in the evening."
+    },
+    {
+      "type": "dictation",
+      "text": "8. Do you eat bread and cheese at school? cheese ham / bread ham."
+    },
+    {
+      "type": "dictation",
+      "text": "11. Do you study your English lessons alone? / French / Portuguese"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Do",
+        "you",
+        "speak",
+        "Portuguese",
+        "at",
+        "home",
+        "?"
+      ],
+      "answer": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Do",
+        "you",
+        "work",
+        "in",
+        "the",
+        "morning",
+        "?"
+      ],
+      "answer": "Do you work in the morning?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "2",
+        ".",
+        "Do",
+        "you",
+        "like",
+        "to",
+        "sleep",
+        "in",
+        "the",
+        "morning",
+        "?",
+        "In",
+        "the",
+        "afternoon",
+        "in",
+        "the",
+        "evening",
+        "."
+      ],
+      "answer": "2. Do you like to sleep in the morning? In the afternoon / in the evening."
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Every day"
+        },
+        {
+          "id": "l2",
+          "text": "friend"
+        },
+        {
+          "id": "l3",
+          "text": "book"
+        },
+        {
+          "id": "l4",
+          "text": "big"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "child"
+        },
+        {
+          "id": "l2",
+          "text": "with me"
+        },
+        {
+          "id": "l3",
+          "text": "this"
+        },
+        {
+          "id": "l4",
+          "text": "small"
+        }
+      ]
+    }
+  ]
+}

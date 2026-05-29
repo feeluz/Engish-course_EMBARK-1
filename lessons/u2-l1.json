@@ -1,0 +1,83 @@
+{
+  "id": "u2l1",
+  "title": "Unidade 2 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 2: To speak / To study. Read the sentences, listen, and repeat.\n\nExamples:\n• I speak I study\n• You speak You study\n• I speak English I study English\n• I speak Spanish I study Spanish"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak I study"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu falo Eu estudo",
+      "options": [
+        "study I speak I",
+        "I speak I study",
+        "You speak I study",
+        "I speak I study 3."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "You speak You study"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Você fala Você estuda",
+      "options": [
+        "I speak You study",
+        "You speak You study 3.",
+        "You speak You study",
+        "study You speak You"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "I speak English I study English"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu falo Inglês Eu estudo inglês",
+      "options": [
+        "I speak English I study English",
+        "You speak English I study English",
+        "English study I English speak I",
+        "I speak English I study English 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "speak",
+        "Spanish",
+        "I",
+        "study",
+        "Spanish"
+      ],
+      "answer": "I speak Spanish I study Spanish"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "You",
+        "speak",
+        "Portuguese",
+        "You",
+        "study",
+        "Portuguese"
+      ],
+      "answer": "You speak Portuguese You study Portuguese"
+    }
+  ]
+}

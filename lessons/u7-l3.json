@@ -1,0 +1,44 @@
+{
+  "id": "u7l3",
+  "title": "Unidade 7 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Lesson 7\n• I want. I go.\n• I want to go with you. I want to go the movies.\n• I want to speak only English. I want to go to the park.\n• I want to play soccer. I want to go to school."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero ir com você.. Eu quero ir ao cinema.",
+      "answer": "I want to go with you. I want to go the movies."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero falar só inglês. Eu quero ir ao parque.",
+      "answer": "I want to speak only English. I want to go to the park."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero jogar futebol. Eu quero ir à escola.",
+      "answer": "I want to play soccer. I want to go to school."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero dormir agora. Eu quero ir à igreja",
+      "answer": "I want to sleep now. I want to go to church."
+    },
+    {
+      "type": "dictation",
+      "text": "How do you spell your name?"
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 7"
+    },
+    {
+      "type": "dictation",
+      "text": "I want. I go."
+    }
+  ]
+}

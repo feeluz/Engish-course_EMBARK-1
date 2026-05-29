@@ -1,0 +1,44 @@
+{
+  "id": "u20l3",
+  "title": "Unidade 20 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I want to drink cold milk and he wants hot milk, please.\n• 7- What do you like to eat? / read / write\n• Easter\n• Easter is usually celebrated in April.\n• Many families usually paint eggs,"
+    },
+    {
+      "type": "translation",
+      "prompt": "Páscoa",
+      "answer": "Easter"
+    },
+    {
+      "type": "translation",
+      "prompt": "A páscoa é geralmente celebrada em abril.",
+      "answer": "Easter is usually celebrated in April."
+    },
+    {
+      "type": "translation",
+      "prompt": "Muitas famílias geralmente pintam ovos,",
+      "answer": "Many families usually paint eggs,"
+    },
+    {
+      "type": "translation",
+      "prompt": "fazem caça aos ovos de páscoa.",
+      "answer": "have Easter egg hunt,"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want cold or hot milk?"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to drink cold milk and he wants hot milk, please."
+    },
+    {
+      "type": "dictation",
+      "text": "7- What do you like to eat? / read / write"
+    }
+  ]
+}

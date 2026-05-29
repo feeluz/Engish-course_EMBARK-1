@@ -1,0 +1,44 @@
+{
+  "id": "u3l3",
+  "title": "Unidade 3 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I work I play\n• You work You play\n• I work here I play soccer\n• You work there You play tennis\n• I work alone I play volleyball with my friend"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu trabalho aqui Eu jogo futebol",
+      "answer": "I work here I play soccer"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você trabalha lá Você joga tênis",
+      "answer": "You work there You play tennis"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu trabalho sozinho Eu jogo vôlei com meu amigo",
+      "answer": "I work alone I play volleyball with my friend"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você trabalha em casa Você joga xadrez com seu irmão",
+      "answer": "You work at a home You play chess with your bro ther"
+    },
+    {
+      "type": "dictation",
+      "text": "I work I play"
+    },
+    {
+      "type": "dictation",
+      "text": "You work You play"
+    },
+    {
+      "type": "dictation",
+      "text": "I work here I play soccer"
+    }
+  ]
+}

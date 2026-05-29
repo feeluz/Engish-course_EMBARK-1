@@ -1,0 +1,50 @@
+{
+  "id": "u7l5",
+  "title": "Unidade 7 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu bebo uma xícara pequena de café de manhã.\n• Eu não trabalho com meu marido.\n• Você quer trabalhar no banco de manhã?\n• Você gosta de beber uma xícara pequena de chá no café da manhã?\n• Eu não durmo à tarde, mas eu durmo à noite."
+    },
+    {
+      "type": "translation",
+      "prompt": "To want – querer. To go – ir",
+      "answer": "Lesson 7"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero. Eu vou.",
+      "answer": "I want. I go."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero ir com você.. Eu quero ir ao cinema.",
+      "answer": "I want to go with you. I want to go the movies."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero falar só inglês. Eu quero ir ao parque.",
+      "answer": "I want to speak only English. I want to go to the park."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero jogar futebol. Eu quero ir à escola.",
+      "answer": "I want to play soccer. I want to go to school."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero dormir agora. Eu quero ir à igreja",
+      "answer": "I want to sleep now. I want to go to church."
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 7"
+    },
+    {
+      "type": "dictation",
+      "text": "I want. I go."
+    }
+  ]
+}

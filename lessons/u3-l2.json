@@ -1,0 +1,124 @@
+{
+  "id": "u3l2",
+  "title": "Unidade 3 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To Work = Trabalhar To Play\n• To work = Trabalhar\n• To play = jogar, brincar, tocar\n• Friend = Amigo\n• Teacher = Professor\n• School = Escola\n• Home = Casa\n• Store = Loja"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To Work"
+        },
+        {
+          "id": "l2",
+          "text": "To work"
+        },
+        {
+          "id": "l3",
+          "text": "To play"
+        },
+        {
+          "id": "l4",
+          "text": "Friend"
+        },
+        {
+          "id": "l5",
+          "text": "Teacher"
+        },
+        {
+          "id": "l6",
+          "text": "School"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Trabalhar To Play"
+        },
+        {
+          "id": "l2",
+          "text": "Trabalhar"
+        },
+        {
+          "id": "l3",
+          "text": "jogar, brincar, tocar"
+        },
+        {
+          "id": "l4",
+          "text": "Amigo"
+        },
+        {
+          "id": "l5",
+          "text": "Professor"
+        },
+        {
+          "id": "l6",
+          "text": "Escola"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Home” mean?",
+      "options": [
+        "Casa 3.",
+        "Casa 1.",
+        "Casa 2.",
+        "Casa"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Store” mean?",
+      "options": [
+        "Loja 1.",
+        "Loja 3.",
+        "Loja 2.",
+        "Loja"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Alone” mean?",
+      "options": [
+        "Sozinho",
+        "Sozinho 2.",
+        "Sozinho 3.",
+        "Sozinho 1."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Only” mean?",
+      "options": [
+        "Só, Somente 2.",
+        "Só, Somente 3.",
+        "Só, Somente",
+        "Só, Somente 1."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "You work at a home You play chess with your bro ther"
+    },
+    {
+      "type": "dictation",
+      "text": "I work in the morning I play in the morning"
+    },
+    {
+      "type": "dictation",
+      "text": "I work in the afternoon I play in the afternoon"
+    }
+  ]
+}

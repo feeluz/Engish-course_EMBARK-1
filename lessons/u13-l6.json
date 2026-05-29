@@ -1,0 +1,123 @@
+{
+  "id": "u13l6",
+  "title": "Unidade 13 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I buy I sell\n• I want to buy a house I want to sell my bicycle\n• I want to buy a new house I need to sell my stor e\n• I want to buy a car I want to sell my house\n• I want to buy a new car I need to sell my car"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to buy a newdress I need to sell my book"
+    },
+    {
+      "type": "dictation",
+      "text": "I have one brother and two sister My name is John"
+    },
+    {
+      "type": "dictation",
+      "text": "I have eight cousins Nice to meet you"
+    },
+    {
+      "type": "dictation",
+      "text": "I need to buy twelve books this year. Nice to meet you, too."
+    },
+    {
+      "type": "dictation",
+      "text": "Numbers"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "buy",
+        "I",
+        "sell"
+      ],
+      "answer": "I buy I sell"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "buy",
+        "a",
+        "house",
+        "I",
+        "want",
+        "to",
+        "sell",
+        "my",
+        "bicycle"
+      ],
+      "answer": "I want to buy a house I want to sell my bicycle"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "buy",
+        "a",
+        "new",
+        "house",
+        "I",
+        "need",
+        "to",
+        "sell",
+        "my",
+        "stor",
+        "e"
+      ],
+      "answer": "I want to buy a new house I need to sell my stor e"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To buy"
+        },
+        {
+          "id": "l2",
+          "text": "To buy"
+        },
+        {
+          "id": "l3",
+          "text": "To sell"
+        },
+        {
+          "id": "l4",
+          "text": "Money"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "comprar To sell"
+        },
+        {
+          "id": "l2",
+          "text": "comprar"
+        },
+        {
+          "id": "l3",
+          "text": "vender"
+        },
+        {
+          "id": "l4",
+          "text": "dinheiro"
+        }
+      ]
+    }
+  ]
+}

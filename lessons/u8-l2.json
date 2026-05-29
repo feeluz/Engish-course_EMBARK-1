@@ -1,0 +1,124 @@
+{
+  "id": "u8l2",
+  "title": "Unidade 8 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• downtown = spell\n• church = movies\n• tomorrow = big\n• small = week\n• home = parents\n• coffee = tea\n• milj = juice\n• home = office"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "downtown"
+        },
+        {
+          "id": "l2",
+          "text": "church"
+        },
+        {
+          "id": "l3",
+          "text": "tomorrow"
+        },
+        {
+          "id": "l4",
+          "text": "small"
+        },
+        {
+          "id": "l5",
+          "text": "home"
+        },
+        {
+          "id": "l6",
+          "text": "coffee"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "spell"
+        },
+        {
+          "id": "l2",
+          "text": "movies"
+        },
+        {
+          "id": "l3",
+          "text": "big"
+        },
+        {
+          "id": "l4",
+          "text": "week"
+        },
+        {
+          "id": "l5",
+          "text": "parents"
+        },
+        {
+          "id": "l6",
+          "text": "tea"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “milj” mean?",
+      "options": [
+        "juice 2.",
+        "juice 1.",
+        "juice",
+        "juice 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “home” mean?",
+      "options": [
+        "office 1.",
+        "office 2.",
+        "office",
+        "office 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “school” mean?",
+      "options": [
+        "church 1.",
+        "church 3.",
+        "church 2.",
+        "church"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “na prima segunda” mean?",
+      "options": [
+        "feira de Setembro 3.",
+        "feira de Setembro 2.",
+        "feira de Setembro",
+        "Setembro de feira"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "and presents for friends."
+    },
+    {
+      "type": "dictation",
+      "text": "Valentine cards with a heart,"
+    },
+    {
+      "type": "dictation",
+      "text": "are very popular."
+    }
+  ]
+}

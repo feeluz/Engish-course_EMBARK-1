@@ -1,0 +1,124 @@
+{
+  "id": "u9l2",
+  "title": "Unidade 9 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To have = ter To understand\n• To have = ter\n• To understand = entender\n• Cat = Gato\n• Dog = Cachorro\n• Bicycle = Bicicleta\n• Table = Mesa\n• Every = Todo, cada"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To have"
+        },
+        {
+          "id": "l2",
+          "text": "To have"
+        },
+        {
+          "id": "l3",
+          "text": "To understand"
+        },
+        {
+          "id": "l4",
+          "text": "Cat"
+        },
+        {
+          "id": "l5",
+          "text": "Dog"
+        },
+        {
+          "id": "l6",
+          "text": "Bicycle"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "ter To understand"
+        },
+        {
+          "id": "l2",
+          "text": "ter"
+        },
+        {
+          "id": "l3",
+          "text": "entender"
+        },
+        {
+          "id": "l4",
+          "text": "Gato"
+        },
+        {
+          "id": "l5",
+          "text": "Cachorro"
+        },
+        {
+          "id": "l6",
+          "text": "Bicicleta"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Table” mean?",
+      "options": [
+        "Mesa",
+        "Mesa 3.",
+        "Mesa 1.",
+        "Mesa 2."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Every” mean?",
+      "options": [
+        "Todo, cada 3.",
+        "Todo, cada 2.",
+        "Todo, cada",
+        "Todo, cada 1."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Too” mean?",
+      "options": [
+        "Também 1.",
+        "Também 3.",
+        "Também",
+        "Também 2."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Also” mean?",
+      "options": [
+        "também 1.",
+        "também",
+        "também 3.",
+        "também 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "I have time I undestand English"
+    },
+    {
+      "type": "dictation",
+      "text": "I have to study I want to understand"
+    },
+    {
+      "type": "dictation",
+      "text": "You have to sleep I you want to understand Engl ish."
+    }
+  ]
+}

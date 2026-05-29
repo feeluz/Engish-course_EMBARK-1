@@ -1,0 +1,94 @@
+{
+  "id": "u17l1",
+  "title": "Unidade 17 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 17: To read / To write. Read the sentences, listen, and repeat.\n\nExamples:\n• I read I write\n• I read the newspaper I write many e-mails\n• I read the e-mail I write e-mails to my boyfrie nd\n• I read a magazine I write to my girlfriend"
+    },
+    {
+      "type": "dictation",
+      "text": "I read I write"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu leio Eu escrevo",
+      "options": [
+        "I read I write 3.",
+        "I read I write",
+        "You read I write",
+        "write I read I"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "I read the newspaper I write many e-mails"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu leio o jornal Eu escreve muitos e-mails",
+      "options": [
+        "You read the newspaper I write many e-mails",
+        "I read the newspaper I write many e-mails 3.",
+        "I read the newspaper I write many e-mails",
+        "e-mails many write I newspaper the read I"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "I read the e-mail I write e-mails to my boyfrie nd"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu leio o e-mail Eu escrevo e-mails para meu na morado",
+      "options": [
+        "I read the e-mail I write e-mails to my boyfrie nd 3.",
+        "You read the e-mail I write e-mails to my boyfrie nd",
+        "I read the e-mail I write e-mails to my boyfrie nd",
+        "nd boyfrie my to e-mails write I e-mail the read I"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "read",
+        "a",
+        "magazine",
+        "I",
+        "write",
+        "to",
+        "my",
+        "girlfriend"
+      ],
+      "answer": "I read a magazine I write to my girlfriend"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "read",
+        "to",
+        "my",
+        "children",
+        "I",
+        "write",
+        "an",
+        "e",
+        "mail",
+        "to",
+        "my",
+        "bo",
+        "ss"
+      ],
+      "answer": "I read to my children I write an e-mail to my bo ss"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "u11l6",
+  "title": "Unidade 11 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I need I prefer\n• I need to work I prefer my home\n• I need to study I prefer my school\n• I need to go I prefer my work\n• I need to sleep I prefer my city"
+    },
+    {
+      "type": "dictation",
+      "text": "I play on weekends."
+    },
+    {
+      "type": "dictation",
+      "text": "Farm - Fazenda"
+    },
+    {
+      "type": "dictation",
+      "text": "porco"
+    },
+    {
+      "type": "dictation",
+      "text": "Batatas fritas"
+    },
+    {
+      "type": "dictation",
+      "text": "Vegetais"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "need",
+        "I",
+        "prefer"
+      ],
+      "answer": "I need I prefer"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "need",
+        "to",
+        "work",
+        "I",
+        "prefer",
+        "my",
+        "home"
+      ],
+      "answer": "I need to work I prefer my home"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "need",
+        "to",
+        "study",
+        "I",
+        "prefer",
+        "my",
+        "school"
+      ],
+      "answer": "I need to study I prefer my school"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To need"
+        },
+        {
+          "id": "l2",
+          "text": "To need"
+        },
+        {
+          "id": "l3",
+          "text": "To prefer"
+        },
+        {
+          "id": "l4",
+          "text": "Family"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "precisar To prefer"
+        },
+        {
+          "id": "l2",
+          "text": "precisar"
+        },
+        {
+          "id": "l3",
+          "text": "preferir"
+        },
+        {
+          "id": "l4",
+          "text": "Família"
+        }
+      ]
+    }
+  ]
+}

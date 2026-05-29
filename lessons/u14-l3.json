@@ -1,0 +1,44 @@
+{
+  "id": "u14l3",
+  "title": "Unidade 14 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Do you want to sell your bicycle?\n• 21- Do you buy ice cream every day? / candy / chocolate.\n• St. Patrick\n• St. Patrick brought Christianity\n• to Ireland many years ago."
+    },
+    {
+      "type": "translation",
+      "prompt": "São Patrício",
+      "answer": "St. Patrick"
+    },
+    {
+      "type": "translation",
+      "prompt": "São Patrício trouxe o cristianismo",
+      "answer": "St. Patrick brought Christianity"
+    },
+    {
+      "type": "translation",
+      "prompt": "para a irlanda alguns anos atras.",
+      "answer": "to Ireland many years ago."
+    },
+    {
+      "type": "translation",
+      "prompt": "Ele usou um trevo de três folhas para ensinar a Trindade.",
+      "answer": "He used a three leaf-clover to teach the Trinity."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to buy an ice cream or some bubble gum?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to sell your bicycle?"
+    },
+    {
+      "type": "dictation",
+      "text": "21- Do you buy ice cream every day? / candy / chocolate."
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "u19l6",
+  "title": "Unidade 19 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I open I close\n• I open the door I close the door\n• I open the window I close the window\n• I open the room I close the room\n• I open the house I close the house"
+    },
+    {
+      "type": "dictation",
+      "text": "I need to go to the store tonight I prefer to go to the bank tomorrow morning"
+    },
+    {
+      "type": "dictation",
+      "text": "How are you? He opens the office at 8:00"
+    },
+    {
+      "type": "dictation",
+      "text": "Afirmativa"
+    },
+    {
+      "type": "dictation",
+      "text": "Negativa"
+    },
+    {
+      "type": "dictation",
+      "text": "Interrogativa"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "open",
+        "I",
+        "close"
+      ],
+      "answer": "I open I close"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "open",
+        "the",
+        "door",
+        "I",
+        "close",
+        "the",
+        "door"
+      ],
+      "answer": "I open the door I close the door"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "open",
+        "the",
+        "window",
+        "I",
+        "close",
+        "the",
+        "window"
+      ],
+      "answer": "I open the window I close the window"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To open"
+        },
+        {
+          "id": "l2",
+          "text": "To open"
+        },
+        {
+          "id": "l3",
+          "text": "To close"
+        },
+        {
+          "id": "l4",
+          "text": "Window"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "abrir To close"
+        },
+        {
+          "id": "l2",
+          "text": "abrir"
+        },
+        {
+          "id": "l3",
+          "text": "fechar"
+        },
+        {
+          "id": "l4",
+          "text": "janela Door"
+        }
+      ]
+    }
+  ]
+}

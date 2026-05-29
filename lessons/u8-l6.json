@@ -1,0 +1,128 @@
+{
+  "id": "u8l6",
+  "title": "Unidade 8 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Do you want to go downtown with me tomorrow?\n• 7- Do you study English at night? / in the morning / in the afternoon.\n• 9- Do you play the piano? / guitar / violin.\n• Dia dos namorados\n• for children and adults."
+    },
+    {
+      "type": "dictation",
+      "text": "Labor Day is celebrated"
+    },
+    {
+      "type": "dictation",
+      "text": "on the first Monday in September."
+    },
+    {
+      "type": "dictation",
+      "text": "It is a holiday in honor of labor."
+    },
+    {
+      "type": "dictation",
+      "text": "and there are activities"
+    },
+    {
+      "type": "dictation",
+      "text": "such as speeches,"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Do",
+        "you",
+        "want",
+        "to",
+        "go",
+        "downtown",
+        "with",
+        "me",
+        "tomorrow",
+        "?"
+      ],
+      "answer": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "7",
+        "Do",
+        "you",
+        "study",
+        "English",
+        "at",
+        "night",
+        "?",
+        "in",
+        "the",
+        "morning",
+        "in",
+        "the",
+        "afternoon",
+        "."
+      ],
+      "answer": "7- Do you study English at night? / in the morning / in the afternoon."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "9",
+        "Do",
+        "you",
+        "play",
+        "the",
+        "piano",
+        "?",
+        "guitar",
+        "violin",
+        "."
+      ],
+      "answer": "9- Do you play the piano? / guitar / violin."
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "downtown"
+        },
+        {
+          "id": "l2",
+          "text": "church"
+        },
+        {
+          "id": "l3",
+          "text": "tomorrow"
+        },
+        {
+          "id": "l4",
+          "text": "small"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "spell"
+        },
+        {
+          "id": "l2",
+          "text": "movies"
+        },
+        {
+          "id": "l3",
+          "text": "big"
+        },
+        {
+          "id": "l4",
+          "text": "week"
+        }
+      ]
+    }
+  ]
+}

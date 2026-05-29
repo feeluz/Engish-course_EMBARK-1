@@ -1,0 +1,92 @@
+{
+  "id": "u13l4",
+  "title": "Unidade 13 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• 1. What do you need to buy today?\n• 3. Do you have dogs at home?\n• 4. Do you sometimes eat French fries?\n• 6. When do you like to go downtown?\n• 7. What do you prefer to eat for lunch?"
+    },
+    {
+      "type": "dictation",
+      "text": "1. What do you need to buy today?"
+    },
+    {
+      "type": "dictation",
+      "text": "3. Do you have dogs at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "4. Do you sometimes eat French fries?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu quero comprar um vestido novo Eu preciso vende r meu livro",
+      "options": [
+        "I want to buy a newdress I need to sell my book",
+        "book my sell to need I newdress a buy to want I",
+        "I want to buy a newdress I need to sell my book 3.",
+        "You want to buy a newdress I need to sell my book"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu tenho um irmão e duas irmãs Meu nome é John",
+      "options": [
+        "You have one brother and two sister My name is John",
+        "John is name My sister two and brother one have I",
+        "I have one brother and two sister My name is John",
+        "I have one brother and two sister My name is John 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu tenho oito primos Muito prazer",
+      "options": [
+        "I have eight cousins Nice to meet you",
+        "You have eight cousins Nice to meet you",
+        "you meet to Nice cousins eight have I",
+        "I have eight cousins Nice to meet you 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "6",
+        ".",
+        "When",
+        "do",
+        "you",
+        "like",
+        "to",
+        "go",
+        "downtown",
+        "?"
+      ],
+      "answer": "6. When do you like to go downtown?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "7",
+        ".",
+        "What",
+        "do",
+        "you",
+        "prefer",
+        "to",
+        "eat",
+        "for",
+        "lunch",
+        "?"
+      ],
+      "answer": "7. What do you prefer to eat for lunch?"
+    }
+  ]
+}

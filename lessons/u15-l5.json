@@ -1,0 +1,50 @@
+{
+  "id": "u15l5",
+  "title": "Unidade 15 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Quantos netos você tem?\n• Eu prefiro estudar inglês na escola.\n• Aonde você precisa ir hoje? / Eu preciso ir ao banco.\n• Eu bebo aproximadamente 4 copos de água todos os dias.\n• Eu quero comprar um vestido e uma blusa para minha irmã."
+    },
+    {
+      "type": "translation",
+      "prompt": "To help – ajudar To know - saber",
+      "answer": "Lesson 15"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo Eu sei",
+      "answer": "I help I know"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo meu primo Eu sei falar inglês",
+      "answer": "I help my cousin Eu know how to speak English"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo meu tio Eu sei ir ao centro",
+      "answer": "I help my uncle I know how to go downtown"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo minha tia Eu sei jogar xadrez",
+      "answer": "I help my aunt I know how to play chess"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu ajudo meus parentes Eu sei escrever seu nome",
+      "answer": "I help my relatives I know how to spell your na me"
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 15"
+    },
+    {
+      "type": "dictation",
+      "text": "I help I know"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "u20l6",
+  "title": "Unidade 20 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I want to drink cold milk and he wants hot milk, please.\n• 7- What do you like to eat? / read / write\n• Easter\n• Easter is usually celebrated in April.\n• Many families usually paint eggs,"
+    },
+    {
+      "type": "dictation",
+      "text": "On October 31, children in the USA wear costumes"
+    },
+    {
+      "type": "dictation",
+      "text": "and go from house to house to house asking for candy"
+    },
+    {
+      "type": "dictation",
+      "text": "Some popular costumes or decorations,"
+    },
+    {
+      "type": "dictation",
+      "text": "and of course, pumpkins with faces."
+    },
+    {
+      "type": "dictation",
+      "text": "Kids love Halloween."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "drink",
+        "cold",
+        "milk",
+        "and",
+        "he",
+        "wants",
+        "hot",
+        "milk",
+        ",",
+        "please",
+        "."
+      ],
+      "answer": "I want to drink cold milk and he wants hot milk, please."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "7",
+        "What",
+        "do",
+        "you",
+        "like",
+        "to",
+        "eat",
+        "?",
+        "read",
+        "write"
+      ],
+      "answer": "7- What do you like to eat? / read / write"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Easter"
+      ],
+      "answer": "Easter"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Bathroom"
+        },
+        {
+          "id": "l2",
+          "text": "flower"
+        },
+        {
+          "id": "l3",
+          "text": "more"
+        },
+        {
+          "id": "l4",
+          "text": "food"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "bedroom"
+        },
+        {
+          "id": "l2",
+          "text": "tree"
+        },
+        {
+          "id": "l3",
+          "text": "pie"
+        },
+        {
+          "id": "l4",
+          "text": "window"
+        }
+      ]
+    }
+  ]
+}

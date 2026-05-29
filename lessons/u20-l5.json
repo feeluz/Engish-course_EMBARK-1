@@ -1,0 +1,50 @@
+{
+  "id": "u20l5",
+  "title": "Unidade 20 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Como vai você? Eu estou bem, obrigado.\n• Você prefere bala, sorvete ou pipoca?\n• Tenho que escrever para meus pais amanhã de manhã.\n• Quero vender meus livros e minhas revistas velhas.\n• Que hora você dorme? / Eu às vezes durmo às 11 horas."
+    },
+    {
+      "type": "translation",
+      "prompt": "Do you have a cat or a dog in your house?",
+      "answer": "I want to drink cold milk and he wants hot milk, please."
+    },
+    {
+      "type": "translation",
+      "prompt": "8- Do you want some cookies? / a slice of pie / a piece of cake",
+      "answer": "7- What do you like to eat? / read / write"
+    },
+    {
+      "type": "translation",
+      "prompt": "Páscoa",
+      "answer": "Easter"
+    },
+    {
+      "type": "translation",
+      "prompt": "A páscoa é geralmente celebrada em abril.",
+      "answer": "Easter is usually celebrated in April."
+    },
+    {
+      "type": "translation",
+      "prompt": "Muitas famílias geralmente pintam ovos,",
+      "answer": "Many families usually paint eggs,"
+    },
+    {
+      "type": "translation",
+      "prompt": "fazem caça aos ovos de páscoa.",
+      "answer": "have Easter egg hunt,"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to drink cold milk and he wants hot milk, please."
+    },
+    {
+      "type": "dictation",
+      "text": "7- What do you like to eat? / read / write"
+    }
+  ]
+}

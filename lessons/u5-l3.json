@@ -1,0 +1,44 @@
+{
+  "id": "u5l3",
+  "title": "Unidade 5 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I like I sleep\n• You like You sleep\n• I like my car I sleep at home\n• I like my house I sleep at night\n• I like you I sleep in the afternoon"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu gosto do meu carro Eu gosto de dormir em casa",
+      "answer": "I like my car I sleep at home"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu gosto da minha casa Eu gosto de dormir à noit e",
+      "answer": "I like my house I sleep at night"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu gosto de você Eu durmo à tarde",
+      "answer": "I like you I sleep in the afternoon"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você gosta de estudar sozinho? Eu gosto de estuda r com você",
+      "answer": "Do you like to study alone? I like study with y ou"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like to study alone? I like study with y ou"
+    },
+    {
+      "type": "dictation",
+      "text": "I like I sleep"
+    },
+    {
+      "type": "dictation",
+      "text": "You like You sleep"
+    }
+  ]
+}

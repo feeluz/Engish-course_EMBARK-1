@@ -1,0 +1,99 @@
+{
+  "id": "u6l1",
+  "title": "Unidade 6 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 6: Conversation 6. Read the sentences, listen, and repeat.\n\nExamples:\n• Do you speak Portuguese at home?\n• Do you work in the morning?\n• 2. Do you like to sleep in the morning? In the afternoon / in the evening.\n• 8. Do you eat bread and cheese at school? cheese ham / bread ham."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "No, I don’t speak Portuguese. I speak English.",
+      "options": [
+        "home? at Portuguese speak you Do",
+        "Do you speak Portuguese at home?",
+        "Do you speak Portuguese at home? 2.",
+        "Do you speak Portuguese at home? 3."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work in the morning?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "No, I don’t work in the morning. I work at night.",
+      "options": [
+        "morning? the in work you Do",
+        "Do you work in the morning? 2.",
+        "Do you work in the morning? 3.",
+        "Do you work in the morning?"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "2. Do you like to sleep in the morning? In the afternoon / in the evening."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "3. Do you drink coffee or milk for breakfast? / juice – coffee / juice milk.",
+      "options": [
+        "2. Do you like to sleep in the morning? In the afternoon / in the evening 3.",
+        "2. Do you like to sleep in the morning? In the afternoon / in the evening.",
+        "2. Do you like to sleep in the morning? In the afternoon / in the evening 2.",
+        "evening the in / afternoon the In morning? the in sleep to like you Do 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "8",
+        ".",
+        "Do",
+        "you",
+        "eat",
+        "bread",
+        "and",
+        "cheese",
+        "at",
+        "school",
+        "?",
+        "cheese",
+        "ham",
+        "bread",
+        "ham",
+        "."
+      ],
+      "answer": "8. Do you eat bread and cheese at school? cheese ham / bread ham."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "11",
+        ".",
+        "Do",
+        "you",
+        "study",
+        "your",
+        "English",
+        "lessons",
+        "alone",
+        "?",
+        "French",
+        "Portuguese"
+      ],
+      "answer": "11. Do you study your English lessons alone? / French / Portuguese"
+    }
+  ]
+}

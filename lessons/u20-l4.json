@@ -1,0 +1,96 @@
+{
+  "id": "u20l4",
+  "title": "Unidade 20 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you want cold or hot milk?\n• How many books about dogs do you have at home?\n• What do you want to buy downtown?\n• 1- How many brothers and sisters do you have? / teachers / friends\n• 2- Do you prefer to work or study English tonight? / German / Chinese"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want cold or hot milk?"
+    },
+    {
+      "type": "dictation",
+      "text": "How many books about dogs do you have at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "What do you want to buy downtown?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: E vão a igreja neste dia.",
+      "options": [
+        "and go to church in this day 3.",
+        "and go to church in this day 2.",
+        "and go to church in this day.",
+        "day this in church to go and."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: As crianças americanas acreditam que",
+      "options": [
+        "that believe kids American",
+        "American kids believe that",
+        "American kids believe that 3.",
+        "American kids believe that 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: O Coelho da páscoa traz ovos de chocolate,",
+      "options": [
+        "The Easter bunny brings chocolate 3.",
+        "The Easter bunny brings chocolate 2.",
+        "The Easter bunny brings chocolate",
+        "chocolate brings bunny Easter The"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        "How",
+        "many",
+        "brothers",
+        "and",
+        "sisters",
+        "do",
+        "you",
+        "have",
+        "?",
+        "teachers",
+        "friends"
+      ],
+      "answer": "1- How many brothers and sisters do you have? / teachers / friends"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "2",
+        "Do",
+        "you",
+        "prefer",
+        "to",
+        "work",
+        "or",
+        "study",
+        "English",
+        "tonight",
+        "?",
+        "German",
+        "Chinese"
+      ],
+      "answer": "2- Do you prefer to work or study English tonight? / German / Chinese"
+    }
+  ]
+}

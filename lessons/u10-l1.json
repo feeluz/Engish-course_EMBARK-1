@@ -1,0 +1,78 @@
+{
+  "id": "u10l1",
+  "title": "Unidade 10 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 10: Conversation 10. Read the sentences, listen, and repeat.\n\nExamples:\n• Do you understand Spanish?\n• 2- Do you speak English at home? / Portuguese / French\n• 5- Do you want to go to the movies today? / park / downtown\n• 2- Do you __________________________________________________________________"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don’t understand Spanish. I understand only English.",
+      "options": [
+        "Do you understand Spanish?",
+        "Do you understand Spanish? 2.",
+        "Spanish? understand you Do",
+        "Do you understand Spanish? 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "3- Do you have a big car? / small / new / old",
+      "options": [
+        "2- Do you speak English at home? / Portuguese / French 3.",
+        "2- Do you speak English at home? / Portuguese / French",
+        "French / Portuguese / home? at English speak you Do 2-",
+        "2- Do you speak English at home? / Portuguese / French 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "5- Do you want to go to the movies today? / park / downtown"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "6- Do you drink coffee and milk for breakfast? coffee – juice / tea – juice",
+      "options": [
+        "5- Do you want to go to the movies today? / park / downtown 2.",
+        "downtown / park / today? movies the to go to want you Do 5-",
+        "5- Do you want to go to the movies today? / park / downtown",
+        "5- Do you want to go to the movies today? / park / downtown 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "2",
+        "Do",
+        "you"
+      ],
+      "answer": "2- Do you __________________________________________________________________"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "4",
+        "I",
+        "understand",
+        "Spanish"
+      ],
+      "answer": "4- I understand Spanish"
+    }
+  ]
+}

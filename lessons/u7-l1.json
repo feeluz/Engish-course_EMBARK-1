@@ -1,0 +1,99 @@
+{
+  "id": "u7l1",
+  "title": "Unidade 7 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 7: To want / To go. Read the sentences, listen, and repeat.\n\nExamples:\n• Lesson 7\n• I want. I go.\n• I want to go with you. I want to go the movies.\n• I want to speak only English. I want to go to the park."
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 7"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "To want – querer. To go – ir",
+      "options": [
+        "Lesson 7 3.",
+        "Lesson 7 1.",
+        "Lesson 7 2.",
+        "Lesson 7"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "I want. I go."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu quero. Eu vou.",
+      "options": [
+        "I want. I go.",
+        "I want. I go 3.",
+        "You want. I go.",
+        "go I want I."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "I want to go with you. I want to go the movies."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu quero ir com você.. Eu quero ir ao cinema.",
+      "options": [
+        "You want to go with you. I want to go the movies.",
+        "I want to go with you. I want to go the movies.",
+        "I want to go with you. I want to go the movies 3.",
+        "movies the go to want I you with go to want I."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "speak",
+        "only",
+        "English",
+        ".",
+        "I",
+        "want",
+        "to",
+        "go",
+        "to",
+        "the",
+        "park",
+        "."
+      ],
+      "answer": "I want to speak only English. I want to go to the park."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "play",
+        "soccer",
+        ".",
+        "I",
+        "want",
+        "to",
+        "go",
+        "to",
+        "school",
+        "."
+      ],
+      "answer": "I want to play soccer. I want to go to school."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard — Inglês na Barca</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:linear-gradient(180deg,#07155f,#123fb8);color:white}
+.wrap{max-width:1100px;margin:0 auto;padding:24px}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:20px}
+.card{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.16);border-radius:22px;padding:20px}
+h1,h2,p{margin-top:0}
+.value{font-size:36px;font-weight:800}
+.button-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+button,a{padding:12px 16px;border:none;border-radius:12px;background:white;color:#08225e;font-weight:700;text-decoration:none;cursor:pointer}
+small{opacity:.85}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <div>
+      <h1>Dashboard do Inglês na Barca</h1>
+      <p>Resumo do aluno neste navegador.</p>
+    </div>
+    <div class="button-row">
+      <a href="platform.html">Plataforma</a>
+      <a href="index.html">Curso</a>
+      <a href="login.html">Login</a>
+      <button id="resetBtn">Resetar progresso</button>
+    </div>
+  </div>
+
+  <div class="grid">
+    <div class="card"><h2>XP</h2><div class="value" id="xp">0</div><small>Pontos acumulados</small></div>
+    <div class="card"><h2>Streak</h2><div class="value" id="streak">0</div><small>Dias seguidos</small></div>
+    <div class="card"><h2>Lições concluídas</h2><div class="value" id="lessons">0</div><small>Progresso total</small></div>
+    <div class="card"><h2>Unidades concluídas</h2><div class="value" id="units">0</div><small>Mapa avançado</small></div>
+    <div class="card"><h2>Corações</h2><div class="value" id="hearts">0</div><small>Vidas disponíveis</small></div>
+    <div class="card"><h2>Última lição</h2><div class="value" id="last" style="font-size:24px">—</div><small>Última atividade</small></div>
+  </div>
+
+  <div class="card" style="margin-top:20px">
+    <h2>Observação importante</h2>
+    <p>Este dashboard já funciona para um aluno por navegador. Para um painel de vários alunos e acompanhamento online real, o próximo passo é salvar tudo no Firestore.</p>
+  </div>
+</div>
+
+<script type="module">
+import { seedDemoProgress, getProgress, resetProgress } from "./progress.js";
+seedDemoProgress();
+const p = getProgress();
+document.getElementById("xp").textContent = p.xp;
+document.getElementById("streak").textContent = p.streak;
+document.getElementById("lessons").textContent = p.completedLessons;
+document.getElementById("units").textContent = p.completedUnits;
+document.getElementById("hearts").textContent = p.hearts;
+document.getElementById("last").textContent = p.lastLesson;
+document.getElementById("resetBtn").addEventListener("click", () => {
+  resetProgress();
+  location.reload();
+});
+</script>
+</body>
+</html>

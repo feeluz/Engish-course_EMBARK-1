@@ -1,0 +1,86 @@
+{
+  "id": "u9l1",
+  "title": "Unidade 9 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 9: To have / To understand. Read the sentences, listen, and repeat.\n\nExamples:\n• I have I understand\n• I have a cat I understand Spanish\n• You have a dog You understand German\n• I have a bicycle I understand only Chinese"
+    },
+    {
+      "type": "dictation",
+      "text": "I have I understand"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu tenho. Eu entendo.",
+      "options": [
+        "understand I have I",
+        "I have I understand",
+        "I have I understand 3.",
+        "You have I understand"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "I have a cat I understand Spanish"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu tenho um gato. Eu entendo Espanhol.",
+      "options": [
+        "I have a cat I understand Spanish 3.",
+        "I have a cat I understand Spanish",
+        "Spanish understand I cat a have I",
+        "You have a cat I understand Spanish"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "You have a dog You understand German"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Você tem um cachorro. Você entende Alemão.",
+      "options": [
+        "German understand You dog a have You",
+        "You have a dog You understand German 3.",
+        "I have a dog You understand German",
+        "You have a dog You understand German"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "have",
+        "a",
+        "bicycle",
+        "I",
+        "understand",
+        "only",
+        "Chinese"
+      ],
+      "answer": "I have a bicycle I understand only Chinese"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "You",
+        "have",
+        "a",
+        "table",
+        "You",
+        "understand",
+        "French"
+      ],
+      "answer": "You have a table You understand French"
+    }
+  ]
+}

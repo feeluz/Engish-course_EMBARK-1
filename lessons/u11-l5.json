@@ -1,0 +1,50 @@
+{
+  "id": "u11l5",
+  "title": "Unidade 11 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu tenho que estudar todas as semanas\n• Você prefere comer peru ou frango no almoço?\n• Eu tenho um irmão e uma irmã. / Eu também não tenho filhos.\n• Como você prefere seu bife: ao ponto ou bem passado?\n• Eu não gosto de comer macarrão, mas eu gosto de batatas fritas."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso Eu prefiro",
+      "answer": "I need I prefer"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso trabalhar Eu prefiro minha casa",
+      "answer": "I need to work I prefer my home"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso estudar Eu prefiro minha escola",
+      "answer": "I need to study I prefer my school"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso ir Eu prefiro meu trabalho",
+      "answer": "I need to go I prefer my work"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso dormir Eu prefiro minha cidade",
+      "answer": "I need to sleep I prefer my city"
+    },
+    {
+      "type": "translation",
+      "prompt": "Quando você precisa ir lá? Eu gosto muito da mi nha casa",
+      "answer": "When do you need to go there? I like my house ve ry much."
+    },
+    {
+      "type": "dictation",
+      "text": "I need I prefer"
+    },
+    {
+      "type": "dictation",
+      "text": "I need to work I prefer my home"
+    }
+  ]
+}

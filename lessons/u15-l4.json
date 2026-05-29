@@ -1,0 +1,89 @@
+{
+  "id": "u15l4",
+  "title": "Unidade 15 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you know my grandfather?\n• Do you know my grand parents?\n• Do you know my teacher?\n• 1- How many brothers and sister do you have?\n• 2- Do you prefer candy or chocolate?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you know my grandfather?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you know my grand parents?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you know my teacher?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu ajudo minha família Eu sei trabalhar no compu tador.",
+      "options": [
+        "I help my family I know how to work on the comp uter 3.",
+        "I help my family I know how to work on the comp uter",
+        "You help my family I know how to work on the comp uter",
+        "uter comp the on work to how know I family my help I"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Voce conhece meu avô?",
+      "options": [
+        "Do you know my grandfather? 3.",
+        "grandfather? my know you Do",
+        "Do you know my grandfather? 2.",
+        "Do you know my grandfather?"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Voce conhece meus avós?",
+      "options": [
+        "Do you know my grand parents?",
+        "parents? grand my know you Do",
+        "Do you know my grand parents? 2.",
+        "Do you know my grand parents? 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        "How",
+        "many",
+        "brothers",
+        "and",
+        "sister",
+        "do",
+        "you",
+        "have",
+        "?"
+      ],
+      "answer": "1- How many brothers and sister do you have?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "2",
+        "Do",
+        "you",
+        "prefer",
+        "candy",
+        "or",
+        "chocolate",
+        "?"
+      ],
+      "answer": "2- Do you prefer candy or chocolate?"
+    }
+  ]
+}

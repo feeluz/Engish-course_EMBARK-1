@@ -1,0 +1,43 @@
+{
+  "id": "u6l3",
+  "title": "Unidade 6 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Do you speak Portuguese at home?\n• Do you work in the morning?\n• 2. Do you like to sleep in the morning? In the afternoon / in the evening.\n• 8. Do you eat bread and cheese at school? cheese ham / bread ham.\n• 11. Do you study your English lessons alone? / French / Portuguese"
+    },
+    {
+      "type": "translation",
+      "prompt": "3. Do you drink coffee or milk for breakfast? / juice – coffee / juice milk.",
+      "answer": "2. Do you like to sleep in the morning? In the afternoon / in the evening."
+    },
+    {
+      "type": "translation",
+      "prompt": "9. Do you study English or Portuguese at school? / French – Portuguese",
+      "answer": "8. Do you eat bread and cheese at school? cheese ham / bread ham."
+    },
+    {
+      "type": "translation",
+      "prompt": "12. Do you eat cheese or ham for breakfast? cheese – bread / ham -bread",
+      "answer": "11. Do you study your English lessons alone? / French / Portuguese"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work in the morning?"
+    },
+    {
+      "type": "dictation",
+      "text": "2. Do you like to sleep in the morning? In the afternoon / in the evening."
+    }
+  ]
+}

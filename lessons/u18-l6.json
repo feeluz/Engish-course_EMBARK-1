@@ -1,0 +1,81 @@
+{
+  "id": "u18l6",
+  "title": "Unidade 18 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• 10- What time do you get up every day? / go to bed / study"
+    },
+    {
+      "type": "dictation",
+      "text": "10- What time do you get up every day? / go to bed / study"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "10",
+        "What",
+        "time",
+        "do",
+        "you",
+        "get",
+        "up",
+        "every",
+        "day",
+        "?",
+        "go",
+        "to",
+        "bed",
+        "study"
+      ],
+      "answer": "10- What time do you get up every day? / go to bed / study"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "mom"
+        },
+        {
+          "id": "l2",
+          "text": "midnight"
+        },
+        {
+          "id": "l3",
+          "text": "office"
+        },
+        {
+          "id": "l4",
+          "text": "cake"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "bed"
+        },
+        {
+          "id": "l2",
+          "text": "noon"
+        },
+        {
+          "id": "l3",
+          "text": "toy"
+        },
+        {
+          "id": "l4",
+          "text": "letter"
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "10- What time do you get up every day? / go to bed / study"
+    }
+  ]
+}

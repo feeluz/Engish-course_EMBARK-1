@@ -1,0 +1,61 @@
+{
+  "id": "u2l4",
+  "title": "Unidade 2 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu falo com meu amigo Eu estudo com minha irmã",
+      "options": [
+        "I speak with my friend I study with my sister 3.",
+        "I speak with my friend I study with my sister",
+        "sister my with study I friend my with speak I",
+        "You speak with my friend I study with my sister"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu falo com meu irmão Eu estudo com meu amigo",
+      "options": [
+        "I speak with my brother I study with my friend",
+        "friend my with study I brother my with speak I",
+        "You speak with my brother I study with my friend",
+        "I speak with my brother I study with my friend 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Você fala com seu pai Você estuda com sua mãe",
+      "options": [
+        "You Speak with your father You study with you mot her 3.",
+        "her mot you with study You father your with Speak You",
+        "I Speak with your father You study with you mot her",
+        "You Speak with your father You study with you mot her"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "I speak I study"
+    },
+    {
+      "type": "dictation",
+      "text": "You speak You study"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak English I study English"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak Spanish I study Spanish"
+    }
+  ]
+}

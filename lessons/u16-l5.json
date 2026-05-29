@@ -1,0 +1,43 @@
+{
+  "id": "u16l5",
+  "title": "Unidade 16 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu preciso ajudar minha filha de manhã.\n• Eu não trabalho no centro, mas eu quero ir com você.\n• Você quer ir à praia nos fins de semana?\n• Não tenho dinheiro hoje, mas quero comprar isto.\n• Gosto de falar inglês com meu chefe."
+    },
+    {
+      "type": "translation",
+      "prompt": "I prefer to speak English. I don’t speak Spanish.",
+      "answer": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "translation",
+      "prompt": "7- Do you like to drink tea or coffee in the morning? / juice-tea / juice – coffee",
+      "answer": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    },
+    {
+      "type": "translation",
+      "prompt": ", but I don’t want to go to the movies.",
+      "answer": "4- I have money"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    }
+  ]
+}

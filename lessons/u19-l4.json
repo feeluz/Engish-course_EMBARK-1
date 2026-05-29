@@ -1,0 +1,89 @@
+{
+  "id": "u19l4",
+  "title": "Unidade 19 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• How are you? He opens the office at 8:00\n• 1- How are you?\n• 2- Do you need to go to the bathroom now?\n• 3- What time do you get up?\n• 4- Where do you need to go this afternoon?"
+    },
+    {
+      "type": "dictation",
+      "text": "How are you? He opens the office at 8:00"
+    },
+    {
+      "type": "dictation",
+      "text": "1- How are you?"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you need to go to the bathroom now?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu preciso ir ao mercado hoje à noite Eu prefiro ir ao banco amaná cedo",
+      "options": [
+        "I need to go to the store tonight I prefer to go to the bank tomorrow morning 3.",
+        "morning tomorrow bank the to go to prefer I tonight store the to go to need I",
+        "I need to go to the store tonight I prefer to go to the bank tomorrow morning",
+        "You need to go to the store tonight I prefer to go to the bank tomorrow morning"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Como vai você? Ele abre o escritório às 8 hora s",
+      "options": [
+        "8:00 at office the opens He you? are How",
+        "How are you? He opens the office at 8:00 2.",
+        "How are you? He opens the office at 8:00",
+        "How are you? He opens the office at 8:00 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Ele come Você come Você tem Ela tem",
+      "options": [
+        "Afirmativa 2.",
+        "Afirmativa 3.",
+        "Afirmativa",
+        "Afirmativa 1."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "3",
+        "What",
+        "time",
+        "do",
+        "you",
+        "get",
+        "up",
+        "?"
+      ],
+      "answer": "3- What time do you get up?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "4",
+        "Where",
+        "do",
+        "you",
+        "need",
+        "to",
+        "go",
+        "this",
+        "afternoon",
+        "?"
+      ],
+      "answer": "4- Where do you need to go this afternoon?"
+    }
+  ]
+}

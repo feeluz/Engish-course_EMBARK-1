@@ -1,0 +1,32 @@
+{
+  "id": "u4l4",
+  "title": "Unidade 4 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises."
+    },
+    {
+      "type": "dictation",
+      "text": "I drink coffee in the morning."
+    },
+    {
+      "type": "dictation",
+      "text": "I eat cheese in the afternoon."
+    },
+    {
+      "type": "dictation",
+      "text": "I work with my father."
+    },
+    {
+      "type": "dictation",
+      "text": "I play the piano."
+    },
+    {
+      "type": "dictation",
+      "text": "4- I work with my friend at school"
+    }
+  ]
+}

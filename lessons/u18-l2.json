@@ -1,0 +1,72 @@
+{
+  "id": "u18l2",
+  "title": "Unidade 18 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• mom = bed\n• midnight = noon\n• office = toy\n• cake = letter\n• magazine = cousin\n• Spanish = German"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "mom"
+        },
+        {
+          "id": "l2",
+          "text": "midnight"
+        },
+        {
+          "id": "l3",
+          "text": "office"
+        },
+        {
+          "id": "l4",
+          "text": "cake"
+        },
+        {
+          "id": "l5",
+          "text": "magazine"
+        },
+        {
+          "id": "l6",
+          "text": "Spanish"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "bed"
+        },
+        {
+          "id": "l2",
+          "text": "noon"
+        },
+        {
+          "id": "l3",
+          "text": "toy"
+        },
+        {
+          "id": "l4",
+          "text": "letter"
+        },
+        {
+          "id": "l5",
+          "text": "cousin"
+        },
+        {
+          "id": "l6",
+          "text": "German"
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "10- What time do you get up every day? / go to bed / study"
+    }
+  ]
+}

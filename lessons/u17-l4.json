@@ -1,0 +1,74 @@
+{
+  "id": "u17l4",
+  "title": "Unidade 17 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• What time is it?\n• What time? Que horas?\n• 4- How many magazines do you have at home?\n• 6- Do you prefer milk or juice for breakfast?"
+    },
+    {
+      "type": "dictation",
+      "text": "What time is it?"
+    },
+    {
+      "type": "dictation",
+      "text": "What time? Que horas?"
+    },
+    {
+      "type": "dictation",
+      "text": "4- How many magazines do you have at home?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu me levanto às 7:30 Eu trabalho até às 5:30",
+      "options": [
+        "y thirt five until work I thirty seven at up get I",
+        "I get up at seven thirty I work until five thirt y 3.",
+        "You get up at seven thirty I work until five thirt y",
+        "I get up at seven thirty I work until five thirt y"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: O’clock só usa em",
+      "options": [
+        "To write - escrever 2.",
+        "To write - escrever 3.",
+        "escrever - write To",
+        "To write - escrever"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: What time is it? Que horas são?",
+      "options": [
+        "What time? Que horas? 3.",
+        "What time? Que horas? 2.",
+        "What time? Que horas?",
+        "horas? Que time? What"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "6",
+        "Do",
+        "you",
+        "prefer",
+        "milk",
+        "or",
+        "juice",
+        "for",
+        "breakfast",
+        "?"
+      ],
+      "answer": "6- Do you prefer milk or juice for breakfast?"
+    }
+  ]
+}

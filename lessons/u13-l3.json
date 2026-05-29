@@ -1,0 +1,44 @@
+{
+  "id": "u13l3",
+  "title": "Unidade 13 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I buy I sell\n• I want to buy a house I want to sell my bicycle\n• I want to buy a new house I need to sell my stor e\n• I want to buy a car I want to sell my house\n• I want to buy a new car I need to sell my car"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar uma casa nova Eu preciso vender minha loja",
+      "answer": "I want to buy a new house I need to sell my stor e"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar um carro Eu quero vender minha casa",
+      "answer": "I want to buy a car I want to sell my house"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar um carro novo Eu preciso vender meu carro.",
+      "answer": "I want to buy a new car I need to sell my car"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar um vestido Eu quero vender meus CDs",
+      "answer": "I want to buy a dress I want to sell my CDs"
+    },
+    {
+      "type": "dictation",
+      "text": "1. What do you need to buy today?"
+    },
+    {
+      "type": "dictation",
+      "text": "I buy I sell"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to buy a house I want to sell my bicycle"
+    }
+  ]
+}

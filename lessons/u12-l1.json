@@ -1,0 +1,31 @@
+{
+  "id": "u12l1",
+  "title": "Unidade 12 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 12: Conversation 12. Read the sentences, listen, and repeat.\n\nExamples:\n• Do you work with your brother?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don’t work with my brother. I work alone.",
+      "options": [
+        "Do you work with your brother? 2.",
+        "brother? your with work you Do",
+        "Do you work with your brother? 3.",
+        "Do you work with your brother?"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "u19l2",
+  "title": "Unidade 19 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To open = abrir To close\n• To open = abrir\n• To close = fechar\n• Window = janela Door\n• porta Room = sala Bedroom\n• Bathroom = Banheiro Kitchen\n• Cozinha Flower = Flor Tree\n• More = mais Cold"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To open"
+        },
+        {
+          "id": "l2",
+          "text": "To open"
+        },
+        {
+          "id": "l3",
+          "text": "To close"
+        },
+        {
+          "id": "l4",
+          "text": "Window"
+        },
+        {
+          "id": "l5",
+          "text": "porta Room"
+        },
+        {
+          "id": "l6",
+          "text": "Bathroom"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "abrir To close"
+        },
+        {
+          "id": "l2",
+          "text": "abrir"
+        },
+        {
+          "id": "l3",
+          "text": "fechar"
+        },
+        {
+          "id": "l4",
+          "text": "janela Door"
+        },
+        {
+          "id": "l5",
+          "text": "sala Bedroom"
+        },
+        {
+          "id": "l6",
+          "text": "Banheiro Kitchen"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Cozinha Flower” mean?",
+      "options": [
+        "Flor Tree 2.",
+        "Flor Tree 1.",
+        "Flor Tree 3.",
+        "Flor Tree"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “More” mean?",
+      "options": [
+        "mais Cold 2.",
+        "mais Cold",
+        "mais Cold 3.",
+        "mais Cold 1."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “frio Hot” mean?",
+      "options": [
+        "quente pie",
+        "quente pie 2.",
+        "quente pie 3.",
+        "quente pie 1."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Food” mean?",
+      "options": [
+        "comida He 3.",
+        "comida He 1.",
+        "comida He",
+        "comida He 2."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "I have to go downtown this morning I want to go to the movies this afternoon"
+    },
+    {
+      "type": "dictation",
+      "text": "I need to go to the store tonight I prefer to go to the bank tomorrow morning"
+    },
+    {
+      "type": "dictation",
+      "text": "How are you? He opens the office at 8:00"
+    }
+  ]
+}

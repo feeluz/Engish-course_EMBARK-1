@@ -1,0 +1,61 @@
+{
+  "id": "u1l4",
+  "title": "Unidade 1 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Você bebe leite Você come carne",
+      "options": [
+        "You drink milk You eat meat",
+        "You drink milk You drink mdrink",
+        "meat eat You milk drink You",
+        "I drink milk You eat meat"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu bebo café e leite Eu como pão e presunto",
+      "options": [
+        "I drink coffee and milk I drink bread and ham",
+        "ham and bread eat I milk and coffee drink I",
+        "You drink coffee and milk I eat bread and ham",
+        "I drink coffee and milk I eat bread and ham"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu bebo água e suco Eu como pão e queijo",
+      "options": [
+        "You drink water and juice I eat bread and cheese",
+        "I drink water and juice I drink bread and cheese",
+        "cheese and bread eat I juice and water drink I",
+        "I drink water and juice I eat bread and cheese"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 1"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink I eat"
+    },
+    {
+      "type": "dictation",
+      "text": "You drink You eat"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink water I eat bread"
+    }
+  ]
+}

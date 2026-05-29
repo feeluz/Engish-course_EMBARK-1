@@ -1,0 +1,84 @@
+{
+  "id": "u20l1",
+  "title": "Unidade 20 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 20: Conversation 20. Read the sentences, listen, and repeat.\n\nExamples:\n• I want to drink cold milk and he wants hot milk, please.\n• 7- What do you like to eat? / read / write\n• Easter\n• Easter is usually celebrated in April."
+    },
+    {
+      "type": "dictation",
+      "text": "I want to drink cold milk and he wants hot milk, please."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Do you have a cat or a dog in your house?",
+      "options": [
+        "I want to drink cold milk and he wants hot milk, please 3.",
+        "I want to drink cold milk and he wants hot milk, please.",
+        "You want to drink cold milk and he wants hot milk, please.",
+        "please milk, hot wants he and milk cold drink to want I."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "7- What do you like to eat? / read / write"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "8- Do you want some cookies? / a slice of pie / a piece of cake",
+      "options": [
+        "7- What do you like to drink? / read / write",
+        "7- What do you like to eat? / read / write",
+        "7- What do you like to eat? / read / write 3.",
+        "write / read / eat? to like you do What 7-"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "Easter"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Páscoa",
+      "options": [
+        "Easter",
+        "Easter 2.",
+        "Easter 1.",
+        "Easter 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Easter",
+        "is",
+        "usually",
+        "celebrated",
+        "in",
+        "April",
+        "."
+      ],
+      "answer": "Easter is usually celebrated in April."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Many",
+        "families",
+        "usually",
+        "paint",
+        "eggs",
+        ","
+      ],
+      "answer": "Many families usually paint eggs,"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "u18l4",
+  "title": "Unidade 18 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you write many e-mails every day?\n• Do you read the newspaper at night?\n• Do you go to church with your family on weekends?\n• Do you understand when I read in English?\n• 1- Do you like to write letters to your friends? / relatives / parents"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you write many e-mails every day?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you read the newspaper at night?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you go to church with your family on weekends?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "Do",
+        "you",
+        "understand",
+        "when",
+        "I",
+        "read",
+        "in",
+        "English",
+        "?"
+      ],
+      "answer": "Do you understand when I read in English?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        "Do",
+        "you",
+        "like",
+        "to",
+        "write",
+        "letters",
+        "to",
+        "your",
+        "friends",
+        "?",
+        "relatives",
+        "parents"
+      ],
+      "answer": "1- Do you like to write letters to your friends? / relatives / parents"
+    },
+    {
+      "type": "dictation",
+      "text": "10- What time do you get up every day? / go to bed / study"
+    }
+  ]
+}

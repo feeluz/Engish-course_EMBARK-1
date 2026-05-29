@@ -1,0 +1,99 @@
+{
+  "id": "u11l4",
+  "title": "Unidade 11 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• When do you need to go there? I like my house ve ry much.\n• When do you need to go downtown? I like my family very much.\n• When do you need to go the store? I study in the city.\n• When do you need to go the bank? I work on the far m.\n• 2- How do you prefer your steak, medium or rare?"
+    },
+    {
+      "type": "dictation",
+      "text": "When do you need to go there? I like my house ve ry much."
+    },
+    {
+      "type": "dictation",
+      "text": "When do you need to go downtown? I like my family very much."
+    },
+    {
+      "type": "dictation",
+      "text": "When do you need to go the store? I study in the city."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Quando você precisa ir ao centro? Eu gosto muito da minha família",
+      "options": [
+        "much very family my like I downtown? go to need you do When.",
+        "When do you need to go downtown? You like my family very much.",
+        "When do you need to go downtown? I like my family very much.",
+        "When do you need to go downtown? I like my family very much 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Quando você precisa ir à loja? Eu estudo na cidad e.",
+      "options": [
+        "When do you need to go the store? I study in the city 3.",
+        "city the in study I store? the go to need you do When.",
+        "When do you need to go the store? I study in the city.",
+        "When do you need to go the store? You study in the city."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Quando você precisa ir ao banco? Eu trabalho na f azenda",
+      "options": [
+        "m far the on work I bank? the go to need you do When.",
+        "When do you need to go the bank? I work on the far m.",
+        "When do you need to go the bank? I work on the far m 3.",
+        "When do you need to go the bank? You work on the far m."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "When",
+        "do",
+        "you",
+        "need",
+        "to",
+        "go",
+        "the",
+        "bank",
+        "?",
+        "I",
+        "work",
+        "on",
+        "the",
+        "far",
+        "m",
+        "."
+      ],
+      "answer": "When do you need to go the bank? I work on the far m."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "2",
+        "How",
+        "do",
+        "you",
+        "prefer",
+        "your",
+        "steak",
+        ",",
+        "medium",
+        "or",
+        "rare",
+        "?"
+      ],
+      "answer": "2- How do you prefer your steak, medium or rare?"
+    }
+  ]
+}

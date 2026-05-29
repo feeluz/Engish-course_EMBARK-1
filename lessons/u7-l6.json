@@ -1,0 +1,115 @@
+{
+  "id": "u7l6",
+  "title": "Unidade 7 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Lesson 7\n• I want. I go.\n• I want to go with you. I want to go the movies.\n• I want to speak only English. I want to go to the park.\n• I want to play soccer. I want to go to school."
+    },
+    {
+      "type": "dictation",
+      "text": "Church - Igreja"
+    },
+    {
+      "type": "dictation",
+      "text": "cidade"
+    },
+    {
+      "type": "dictation",
+      "text": "How - Como"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to go to"
+    },
+    {
+      "type": "dictation",
+      "text": "8. I want to go _______________ movies with my daughter."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Lesson",
+        "7"
+      ],
+      "answer": "Lesson 7"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        ".",
+        "I",
+        "go",
+        "."
+      ],
+      "answer": "I want. I go."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "want",
+        "to",
+        "go",
+        "with",
+        "you",
+        ".",
+        "I",
+        "want",
+        "to",
+        "go",
+        "the",
+        "movies",
+        "."
+      ],
+      "answer": "I want to go with you. I want to go the movies."
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To want"
+        },
+        {
+          "id": "l2",
+          "text": "To go"
+        },
+        {
+          "id": "l3",
+          "text": "Office"
+        },
+        {
+          "id": "l4",
+          "text": "Bank"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "querer"
+        },
+        {
+          "id": "l2",
+          "text": "ir"
+        },
+        {
+          "id": "l3",
+          "text": "Escritório"
+        },
+        {
+          "id": "l4",
+          "text": "Banco"
+        }
+      ]
+    }
+  ]
+}

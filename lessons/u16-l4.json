@@ -1,0 +1,67 @@
+{
+  "id": "u16l4",
+  "title": "Unidade 16 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you help your wife at home?\n• Do you prefer to speak English or Spanish?\n• Do you want to help me tomorrow?\n• Do you want to go to the beach with me?\n• 1- When do you help your parents? / friends / neighbor"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you help your wife at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to help me tomorrow?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "Do",
+        "you",
+        "want",
+        "to",
+        "go",
+        "to",
+        "the",
+        "beach",
+        "with",
+        "me",
+        "?"
+      ],
+      "answer": "Do you want to go to the beach with me?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        "When",
+        "do",
+        "you",
+        "help",
+        "your",
+        "parents",
+        "?",
+        "friends",
+        "neighbor"
+      ],
+      "answer": "1- When do you help your parents? / friends / neighbor"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    }
+  ]
+}

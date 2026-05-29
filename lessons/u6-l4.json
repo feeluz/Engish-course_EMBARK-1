@@ -1,0 +1,64 @@
+{
+  "id": "u6l4",
+  "title": "Unidade 6 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you speak Portuguese at home?\n• Do you work in the morning?\n• Do you drink tea with your friends?\n• Do you speak English with your brother?\n• 1. Do you speak English? / French / Portuguese."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work in the morning?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you drink tea with your friends?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "Do",
+        "you",
+        "speak",
+        "English",
+        "with",
+        "your",
+        "brother",
+        "?"
+      ],
+      "answer": "Do you speak English with your brother?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        ".",
+        "Do",
+        "you",
+        "speak",
+        "English",
+        "?",
+        "French",
+        "Portuguese",
+        "."
+      ],
+      "answer": "1. Do you speak English? / French / Portuguese."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you speak Portuguese at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work in the morning?"
+    }
+  ]
+}

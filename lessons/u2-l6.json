@@ -1,0 +1,107 @@
+{
+  "id": "u2l6",
+  "title": "Unidade 2 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I speak I study\n• You speak You study\n• I speak English I study English\n• I speak Spanish I study Spanish\n• You speak Portuguese You study Portuguese"
+    },
+    {
+      "type": "dictation",
+      "text": "I work in the night"
+    },
+    {
+      "type": "dictation",
+      "text": "Son- Filho"
+    },
+    {
+      "type": "dictation",
+      "text": "Filhos"
+    },
+    {
+      "type": "dictation",
+      "text": "Portuguese -"
+    },
+    {
+      "type": "dictation",
+      "text": "Of- de"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "speak",
+        "I",
+        "study"
+      ],
+      "answer": "I speak I study"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "You",
+        "speak",
+        "You",
+        "study"
+      ],
+      "answer": "You speak You study"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "speak",
+        "English",
+        "I",
+        "study",
+        "English"
+      ],
+      "answer": "I speak English I study English"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To speak"
+        },
+        {
+          "id": "l2",
+          "text": "To Speak"
+        },
+        {
+          "id": "l3",
+          "text": "To Study"
+        },
+        {
+          "id": "l4",
+          "text": "At"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "falar To study"
+        },
+        {
+          "id": "l2",
+          "text": "Falar"
+        },
+        {
+          "id": "l3",
+          "text": "Estudar"
+        },
+        {
+          "id": "l4",
+          "text": "em, na"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "u13l5",
+  "title": "Unidade 13 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu tenho que comprar um livro de alemão hoje.\n• Eu preciso vender meu carro para comprar uma casa.\n• Onde você compra doce e chocolate?\n• Eu preciso estudar inglês em casa.\n• O que você precisa comprar no mercado hoje?"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu compro Eu vendo",
+      "answer": "I buy I sell"
+    },
+    {
+      "type": "translation",
+      "prompt": "I quero comprar uma casa Eu quero vender minha b icicleta",
+      "answer": "I want to buy a house I want to sell my bicycle"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar uma casa nova Eu preciso vender minha loja",
+      "answer": "I want to buy a new house I need to sell my stor e"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar um carro Eu quero vender minha casa",
+      "answer": "I want to buy a car I want to sell my house"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar um carro novo Eu preciso vender meu carro.",
+      "answer": "I want to buy a new car I need to sell my car"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu quero comprar um vestido Eu quero vender meus CDs",
+      "answer": "I want to buy a dress I want to sell my CDs"
+    },
+    {
+      "type": "dictation",
+      "text": "I buy I sell"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to buy a house I want to sell my bicycle"
+    }
+  ]
+}

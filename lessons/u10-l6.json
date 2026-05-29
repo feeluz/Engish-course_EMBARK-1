@@ -1,0 +1,121 @@
+{
+  "id": "u10l6",
+  "title": "Unidade 10 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Do you understand Spanish?\n• 2- Do you speak English at home? / Portuguese / French\n• 5- Do you want to go to the movies today? / park / downtown\n• 2- Do you __________________________________________________________________\n• 4- I understand Spanish"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "dictation",
+      "text": "5- Do you want to go to the movies today? / park / downtown"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you __________________________________________________________________"
+    },
+    {
+      "type": "dictation",
+      "text": "4- I understand Spanish"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Do",
+        "you",
+        "understand",
+        "Spanish",
+        "?"
+      ],
+      "answer": "Do you understand Spanish?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "2",
+        "Do",
+        "you",
+        "speak",
+        "English",
+        "at",
+        "home",
+        "?",
+        "Portuguese",
+        "French"
+      ],
+      "answer": "2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "5",
+        "Do",
+        "you",
+        "want",
+        "to",
+        "go",
+        "to",
+        "the",
+        "movies",
+        "today",
+        "?",
+        "park",
+        "downtown"
+      ],
+      "answer": "5- Do you want to go to the movies today? / park / downtown"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Weekend"
+        },
+        {
+          "id": "l2",
+          "text": "Spanish"
+        },
+        {
+          "id": "l3",
+          "text": "here"
+        },
+        {
+          "id": "l4",
+          "text": "every"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "also"
+        },
+        {
+          "id": "l2",
+          "text": "German"
+        },
+        {
+          "id": "l3",
+          "text": "dog"
+        },
+        {
+          "id": "l4",
+          "text": "neighbor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "u16l3",
+  "title": "Unidade 16 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Do you prefer to speak English or Spanish?\n• 6- Do you eat popcorn at the movies? / candy / chocolate\n• 4- I have money"
+    },
+    {
+      "type": "translation",
+      "prompt": ", but I don’t want to go to the movies.",
+      "answer": "4- I have money"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you help your wife at home?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you prefer to speak English or Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you eat popcorn at the movies? / candy / chocolate"
+    },
+    {
+      "type": "dictation",
+      "text": "4- I have money"
+    }
+  ]
+}

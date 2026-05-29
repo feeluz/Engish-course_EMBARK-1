@@ -1,0 +1,50 @@
+{
+  "id": "u14l5",
+  "title": "Unidade 14 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu preciso comprar uma camisa nova hoje.\n• Eu não quero tocar piano agora.\n• O que você quer comprar para mim?\n• Eu quero comprar sorvete no mercado.\n• Eu estudo sozinho todos os dias de manhã."
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t want to sell my bicycle.",
+      "answer": "Do you want to sell your bicycle?"
+    },
+    {
+      "type": "translation",
+      "prompt": "22- Do you have a cat at home? / dog / fish.",
+      "answer": "21- Do you buy ice cream every day? / candy / chocolate."
+    },
+    {
+      "type": "translation",
+      "prompt": "São Patrício",
+      "answer": "St. Patrick"
+    },
+    {
+      "type": "translation",
+      "prompt": "São Patrício trouxe o cristianismo",
+      "answer": "St. Patrick brought Christianity"
+    },
+    {
+      "type": "translation",
+      "prompt": "para a irlanda alguns anos atras.",
+      "answer": "to Ireland many years ago."
+    },
+    {
+      "type": "translation",
+      "prompt": "Ele usou um trevo de três folhas para ensinar a Trindade.",
+      "answer": "He used a three leaf-clover to teach the Trinity."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to sell your bicycle?"
+    },
+    {
+      "type": "dictation",
+      "text": "21- Do you buy ice cream every day? / candy / chocolate."
+    }
+  ]
+}

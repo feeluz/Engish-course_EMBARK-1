@@ -1,0 +1,45 @@
+{
+  "id": "u10l5",
+  "title": "Unidade 10 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu tenho um gato e um cachorro em minha casa.\n• Aonde você quer ir amanha? / Eu quero ir para casa.\n• Eu não tenho tempo hoje. / Eu trabalho à noite.\n• O que você quer beber agora? / Eu quero água, por favor.\n• Aonde você gosta de ir à noite? / Eu gosto de ir a igreja.."
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t understand Spanish. I understand only English.",
+      "answer": "Do you understand Spanish?"
+    },
+    {
+      "type": "translation",
+      "prompt": "3- Do you have a big car? / small / new / old",
+      "answer": "2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "translation",
+      "prompt": "6- Do you drink coffee and milk for breakfast? coffee – juice / tea – juice",
+      "answer": "5- Do you want to go to the movies today? / park / downtown"
+    },
+    {
+      "type": "translation",
+      "prompt": "3- I don’t ___________________________________________________________________",
+      "answer": "2- Do you __________________________________________________________________"
+    },
+    {
+      "type": "translation",
+      "prompt": ", but I don’t understand German",
+      "answer": "4- I understand Spanish"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you speak English at home? / Portuguese / French"
+    }
+  ]
+}

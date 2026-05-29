@@ -1,0 +1,44 @@
+{
+  "id": "u9l3",
+  "title": "Unidade 9 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I have I understand\n• I have a cat I understand Spanish\n• You have a dog You understand German\n• I have a bicycle I understand only Chinese\n• You have a table You understand French"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você tem um cachorro. Você entende Alemão.",
+      "answer": "You have a dog You understand German"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho uma bicicleta. Eu entendo som ente Chi nês.",
+      "answer": "I have a bicycle I understand only Chinese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você tem uma mesa. Você entende Francês.",
+      "answer": "You have a table You understand French"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho tempo. Eu entendo Inglês.",
+      "answer": "I have time I undestand English"
+    },
+    {
+      "type": "dictation",
+      "text": "1. What do you _______________________ to drink for dinner?"
+    },
+    {
+      "type": "dictation",
+      "text": "I have I understand"
+    },
+    {
+      "type": "dictation",
+      "text": "I have a cat I understand Spanish"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "u5l6",
+  "title": "Unidade 5 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I like I sleep\n• You like You sleep\n• I like my car I sleep at home\n• I like my house I sleep at night\n• I like you I sleep in the afternoon"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like to study alone? I like study with y ou"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like to eat? I like to speak with you"
+    },
+    {
+      "type": "dictation",
+      "text": "House - Casa"
+    },
+    {
+      "type": "dictation",
+      "text": "Small - Pequeno"
+    },
+    {
+      "type": "dictation",
+      "text": "Wife-Esposa"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "like",
+        "I",
+        "sleep"
+      ],
+      "answer": "I like I sleep"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "You",
+        "like",
+        "You",
+        "sleep"
+      ],
+      "answer": "You like You sleep"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "like",
+        "my",
+        "car",
+        "I",
+        "sleep",
+        "at",
+        "home"
+      ],
+      "answer": "I like my car I sleep at home"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To like"
+        },
+        {
+          "id": "l2",
+          "text": "To like"
+        },
+        {
+          "id": "l3",
+          "text": "To sleep"
+        },
+        {
+          "id": "l4",
+          "text": "Book"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "Gostar To Sleep"
+        },
+        {
+          "id": "l2",
+          "text": "Gostar"
+        },
+        {
+          "id": "l3",
+          "text": "Dormir"
+        },
+        {
+          "id": "l4",
+          "text": "Livro"
+        }
+      ]
+    }
+  ]
+}

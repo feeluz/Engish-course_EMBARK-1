@@ -1,0 +1,111 @@
+{
+  "id": "u9l6",
+  "title": "Unidade 9 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I have I understand\n• I have a cat I understand Spanish\n• You have a dog You understand German\n• I have a bicycle I understand only Chinese\n• You have a table You understand French"
+    },
+    {
+      "type": "dictation",
+      "text": "I have to study I want to understand"
+    },
+    {
+      "type": "dictation",
+      "text": "You have to sleep I you want to understand Engl ish."
+    },
+    {
+      "type": "dictation",
+      "text": "I have to work I have to understand Chinese"
+    },
+    {
+      "type": "dictation",
+      "text": "You have to eat You have to understand your hu sband"
+    },
+    {
+      "type": "dictation",
+      "text": "To have - ter"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "have",
+        "I",
+        "understand"
+      ],
+      "answer": "I have I understand"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "have",
+        "a",
+        "cat",
+        "I",
+        "understand",
+        "Spanish"
+      ],
+      "answer": "I have a cat I understand Spanish"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "You",
+        "have",
+        "a",
+        "dog",
+        "You",
+        "understand",
+        "German"
+      ],
+      "answer": "You have a dog You understand German"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To have"
+        },
+        {
+          "id": "l2",
+          "text": "To have"
+        },
+        {
+          "id": "l3",
+          "text": "To understand"
+        },
+        {
+          "id": "l4",
+          "text": "Cat"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "ter To understand"
+        },
+        {
+          "id": "l2",
+          "text": "ter"
+        },
+        {
+          "id": "l3",
+          "text": "entender"
+        },
+        {
+          "id": "l4",
+          "text": "Gato"
+        }
+      ]
+    }
+  ]
+}

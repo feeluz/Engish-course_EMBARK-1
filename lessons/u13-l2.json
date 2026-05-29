@@ -1,0 +1,124 @@
+{
+  "id": "u13l2",
+  "title": "Unidade 13 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To buy = comprar To sell\n• To buy = comprar\n• To sell = vender\n• Money = dinheiro\n• Ice cream = sorvete\n• Candy = bala, doce\n• Chocolate = Chocolate\n• Bubble gum = chiclete"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To buy"
+        },
+        {
+          "id": "l2",
+          "text": "To buy"
+        },
+        {
+          "id": "l3",
+          "text": "To sell"
+        },
+        {
+          "id": "l4",
+          "text": "Money"
+        },
+        {
+          "id": "l5",
+          "text": "Ice cream"
+        },
+        {
+          "id": "l6",
+          "text": "Candy"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "comprar To sell"
+        },
+        {
+          "id": "l2",
+          "text": "comprar"
+        },
+        {
+          "id": "l3",
+          "text": "vender"
+        },
+        {
+          "id": "l4",
+          "text": "dinheiro"
+        },
+        {
+          "id": "l5",
+          "text": "sorvete"
+        },
+        {
+          "id": "l6",
+          "text": "bala, doce"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Chocolate” mean?",
+      "options": [
+        "Chocolate 1.",
+        "Chocolate 3.",
+        "Chocolate 2.",
+        "Chocolate"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Bubble gum” mean?",
+      "options": [
+        "chiclete 3.",
+        "chiclete 1.",
+        "chiclete 2.",
+        "chiclete"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Pencil” mean?",
+      "options": [
+        "lápis 2.",
+        "lápis 1.",
+        "lápis",
+        "lápis 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Pen” mean?",
+      "options": [
+        "caneta",
+        "caneta 2.",
+        "caneta 1.",
+        "caneta 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "I want to buy a dress I want to sell my CDs"
+    },
+    {
+      "type": "dictation",
+      "text": "I want to buy a newdress I need to sell my book"
+    },
+    {
+      "type": "dictation",
+      "text": "I have one brother and two sister My name is John"
+    }
+  ]
+}

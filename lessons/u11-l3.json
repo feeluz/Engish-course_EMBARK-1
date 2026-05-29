@@ -1,0 +1,44 @@
+{
+  "id": "u11l3",
+  "title": "Unidade 11 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I need I prefer\n• I need to work I prefer my home\n• I need to study I prefer my school\n• I need to go I prefer my work\n• I need to sleep I prefer my city"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso estudar Eu prefiro minha escola",
+      "answer": "I need to study I prefer my school"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso ir Eu prefiro meu trabalho",
+      "answer": "I need to go I prefer my work"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu preciso dormir Eu prefiro minha cidade",
+      "answer": "I need to sleep I prefer my city"
+    },
+    {
+      "type": "translation",
+      "prompt": "Quando você precisa ir lá? Eu gosto muito da mi nha casa",
+      "answer": "When do you need to go there? I like my house ve ry much."
+    },
+    {
+      "type": "dictation",
+      "text": "When do you need to go there? I like my house ve ry much."
+    },
+    {
+      "type": "dictation",
+      "text": "I need I prefer"
+    },
+    {
+      "type": "dictation",
+      "text": "I need to work I prefer my home"
+    }
+  ]
+}

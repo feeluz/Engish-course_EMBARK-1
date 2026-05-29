@@ -1,0 +1,44 @@
+{
+  "id": "u8l3",
+  "title": "Unidade 8 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Do you want to go downtown with me tomorrow?\n• 7- Do you study English at night? / in the morning / in the afternoon.\n• 9- Do you play the piano? / guitar / violin.\n• Dia dos namorados\n• for children and adults."
+    },
+    {
+      "type": "translation",
+      "prompt": "10- Do you like to drink coffee or juice for breakfast? / coffee – tea / milj – juice",
+      "answer": "9- Do you play the piano? / guitar / violin."
+    },
+    {
+      "type": "translation",
+      "prompt": "Valentine’s Day is a special day",
+      "answer": "Dia dos namorados"
+    },
+    {
+      "type": "translation",
+      "prompt": "para crianças e adultos.",
+      "answer": "for children and adults."
+    },
+    {
+      "type": "translation",
+      "prompt": "e presentes para os amigos.",
+      "answer": "and presents for friends."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "dictation",
+      "text": "7- Do you study English at night? / in the morning / in the afternoon."
+    }
+  ]
+}

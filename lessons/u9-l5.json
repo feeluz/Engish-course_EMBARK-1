@@ -1,0 +1,50 @@
+{
+  "id": "u9l5",
+  "title": "Unidade 9 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu entendo espanhol. / Eu não entendo alemão.\n• Eu não gosto de beber leite. / Eu gosto de beber suco.\n• Eu estudo com meu amigo nos fins de semana.\n• Eu trabalho com meus pais em casa.\n• Eu não quero dormir agora. / Eu quero dormir à noite."
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho. Eu entendo.",
+      "answer": "I have I understand"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho um gato. Eu entendo Espanhol.",
+      "answer": "I have a cat I understand Spanish"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você tem um cachorro. Você entende Alemão.",
+      "answer": "You have a dog You understand German"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho uma bicicleta. Eu entendo som ente Chi nês.",
+      "answer": "I have a bicycle I understand only Chinese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você tem uma mesa. Você entende Francês.",
+      "answer": "You have a table You understand French"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu tenho tempo. Eu entendo Inglês.",
+      "answer": "I have time I undestand English"
+    },
+    {
+      "type": "dictation",
+      "text": "I have I understand"
+    },
+    {
+      "type": "dictation",
+      "text": "I have a cat I understand Spanish"
+    }
+  ]
+}

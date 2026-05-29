@@ -1,0 +1,64 @@
+{
+  "id": "u12l2",
+  "title": "Unidade 12 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• Farm = city\n• office = day\n• boss = family\n• rice = sometimes\n• chicken = very much"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "Farm"
+        },
+        {
+          "id": "l2",
+          "text": "office"
+        },
+        {
+          "id": "l3",
+          "text": "boss"
+        },
+        {
+          "id": "l4",
+          "text": "rice"
+        },
+        {
+          "id": "l5",
+          "text": "chicken"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "city"
+        },
+        {
+          "id": "l2",
+          "text": "day"
+        },
+        {
+          "id": "l3",
+          "text": "family"
+        },
+        {
+          "id": "l4",
+          "text": "sometimes"
+        },
+        {
+          "id": "l5",
+          "text": "very much"
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    }
+  ]
+}

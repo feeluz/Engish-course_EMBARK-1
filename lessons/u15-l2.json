@@ -1,0 +1,124 @@
+{
+  "id": "u15l2",
+  "title": "Unidade 15 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To help = ajudar To know\n• I have twenty = eight cousins\n• To help = ajudar\n• To know = saber, conhecer\n• Grandfather = avô\n• Grandmother = avó\n• Grandparents = avós\n• Grandson = neto"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To help"
+        },
+        {
+          "id": "l2",
+          "text": "I have twenty"
+        },
+        {
+          "id": "l3",
+          "text": "To help"
+        },
+        {
+          "id": "l4",
+          "text": "To know"
+        },
+        {
+          "id": "l5",
+          "text": "Grandfather"
+        },
+        {
+          "id": "l6",
+          "text": "Grandmother"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "ajudar To know"
+        },
+        {
+          "id": "l2",
+          "text": "eight cousins"
+        },
+        {
+          "id": "l3",
+          "text": "ajudar"
+        },
+        {
+          "id": "l4",
+          "text": "saber, conhecer"
+        },
+        {
+          "id": "l5",
+          "text": "avô"
+        },
+        {
+          "id": "l6",
+          "text": "avó"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Grandparents” mean?",
+      "options": [
+        "avós 1.",
+        "avós 3.",
+        "avós 2.",
+        "avós"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Grandson” mean?",
+      "options": [
+        "neto",
+        "neto 2.",
+        "neto 1.",
+        "neto 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Granddaughter” mean?",
+      "options": [
+        "neta 3.",
+        "neta",
+        "neta 2.",
+        "neta 1."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Grandchildren” mean?",
+      "options": [
+        "netos 3.",
+        "netos 1.",
+        "netos",
+        "netos 2."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "I help my relatives I know how to spell your na me"
+    },
+    {
+      "type": "dictation",
+      "text": "I help my family I know how to work on the comp uter"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you know my grandfather?"
+    }
+  ]
+}

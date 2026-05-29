@@ -1,0 +1,50 @@
+{
+  "id": "u3l5",
+  "title": "Unidade 3 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu bebo uma xícara de chá, obrigado. / De nada\n• Você não come carne de manhã. / Você come pão e presunto\n• Eu estudo Inglês na escola à noite\n• Você trabalha com minha mãe na escola\n• Eu não toco piano à noite. / Eu toco violino à tarde"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu trabalho Eu jogo",
+      "answer": "I work I play"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você trabalha Você joga",
+      "answer": "You work You play"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu trabalho aqui Eu jogo futebol",
+      "answer": "I work here I play soccer"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você trabalha lá Você joga tênis",
+      "answer": "You work there You play tennis"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu trabalho sozinho Eu jogo vôlei com meu amigo",
+      "answer": "I work alone I play volleyball with my friend"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você trabalha em casa Você joga xadrez com seu irmão",
+      "answer": "You work at a home You play chess with your bro ther"
+    },
+    {
+      "type": "dictation",
+      "text": "I work I play"
+    },
+    {
+      "type": "dictation",
+      "text": "You work You play"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "u19l1",
+  "title": "Unidade 19 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 19: To open / To close. Read the sentences, listen, and repeat.\n\nExamples:\n• I open I close\n• I open the door I close the door\n• I open the window I close the window\n• I open the room I close the room"
+    },
+    {
+      "type": "dictation",
+      "text": "I open I close"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu abro Eu fecho",
+      "options": [
+        "I open I close 3.",
+        "You open I close",
+        "I open I close",
+        "close I open I"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "I open the door I close the door"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu abro a porta Eu fecho a porta",
+      "options": [
+        "door the close I door the open I",
+        "You open the door I close the door",
+        "I open the door I close the door",
+        "I open the door I close the door 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "I open the window I close the window"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu abro a janela Eu fecho a janela",
+      "options": [
+        "I open the window I close the window 3.",
+        "window the close I window the open I",
+        "I open the window I close the window",
+        "You open the window I close the window"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "open",
+        "the",
+        "room",
+        "I",
+        "close",
+        "the",
+        "room"
+      ],
+      "answer": "I open the room I close the room"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "open",
+        "the",
+        "house",
+        "I",
+        "close",
+        "the",
+        "house"
+      ],
+      "answer": "I open the house I close the house"
+    }
+  ]
+}

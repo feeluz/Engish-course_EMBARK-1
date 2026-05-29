@@ -1,0 +1,79 @@
+{
+  "id": "u8l1",
+  "title": "Unidade 8 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 8: Conversation 8. Read the sentences, listen, and repeat.\n\nExamples:\n• Do you want to go downtown with me tomorrow?\n• 7- Do you study English at night? / in the morning / in the afternoon.\n• 9- Do you play the piano? / guitar / violin.\n• Dia dos namorados"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don’t want to go downtown. I want to go to the movies.",
+      "options": [
+        "Do you want to go downtown with me tomorrow? 2.",
+        "Do you want to go downtown with me tomorrow? 3.",
+        "tomorrow? me with downtown go to want you Do",
+        "Do you want to go downtown with me tomorrow?"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "7- Do you study English at night? / in the morning / in the afternoon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "8- Do you drink a cup of tea in the afternoon? / coffee / milk",
+      "options": [
+        "afternoon the in / morning the in / night? at English study you Do 7-.",
+        "7- Do you study English at night? / in the morning / in the afternoon.",
+        "7- Do you study English at night? / in the morning / in the afternoon 3.",
+        "7- Do you study English at night? / in the morning / in the afternoon 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "9- Do you play the piano? / guitar / violin."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "10- Do you like to drink coffee or juice for breakfast? / coffee – tea / milj – juice",
+      "options": [
+        "violin / guitar / piano? the play you Do 9-.",
+        "9- Do you play the piano? / guitar / violin 2.",
+        "9- Do you play the piano? / guitar / violin 3.",
+        "9- Do you play the piano? / guitar / violin."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "Dia",
+        "dos",
+        "namorados"
+      ],
+      "answer": "Dia dos namorados"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "for",
+        "children",
+        "and",
+        "adults",
+        "."
+      ],
+      "answer": "for children and adults."
+    }
+  ]
+}

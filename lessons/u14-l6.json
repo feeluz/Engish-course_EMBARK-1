@@ -1,0 +1,116 @@
+{
+  "id": "u14l6",
+  "title": "Unidade 14 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Do you want to sell your bicycle?\n• 21- Do you buy ice cream every day? / candy / chocolate.\n• St. Patrick\n• St. Patrick brought Christianity\n• to Ireland many years ago."
+    },
+    {
+      "type": "dictation",
+      "text": "when they study the discovery of America."
+    },
+    {
+      "type": "dictation",
+      "text": "Christopher Columbus was looking for a route"
+    },
+    {
+      "type": "dictation",
+      "text": "to India when he discovered America."
+    },
+    {
+      "type": "dictation",
+      "text": "For this reason the native Americans are called Indians."
+    },
+    {
+      "type": "dictation",
+      "text": "3- I want ___________________________________________________________________"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Do",
+        "you",
+        "want",
+        "to",
+        "sell",
+        "your",
+        "bicycle",
+        "?"
+      ],
+      "answer": "Do you want to sell your bicycle?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "21",
+        "Do",
+        "you",
+        "buy",
+        "ice",
+        "cream",
+        "every",
+        "day",
+        "?",
+        "candy",
+        "chocolate",
+        "."
+      ],
+      "answer": "21- Do you buy ice cream every day? / candy / chocolate."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "St",
+        ".",
+        "Patrick"
+      ],
+      "answer": "St. Patrick"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "breakfast"
+        },
+        {
+          "id": "l2",
+          "text": "dress"
+        },
+        {
+          "id": "l3",
+          "text": "bubble gum"
+        },
+        {
+          "id": "l4",
+          "text": "pencil"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "shoe"
+        },
+        {
+          "id": "l2",
+          "text": "pants"
+        },
+        {
+          "id": "l3",
+          "text": "money"
+        },
+        {
+          "id": "l4",
+          "text": "french fries"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "u2l2",
+  "title": "Unidade 2 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To speak = falar To study\n• To Speak = Falar\n• To Study = Estudar\n• At = em, na\n• At the = na, no\n• The = o\n• Father = Pai\n• Mother = Mãe"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To speak"
+        },
+        {
+          "id": "l2",
+          "text": "To Speak"
+        },
+        {
+          "id": "l3",
+          "text": "To Study"
+        },
+        {
+          "id": "l4",
+          "text": "At"
+        },
+        {
+          "id": "l5",
+          "text": "At the"
+        },
+        {
+          "id": "l6",
+          "text": "The"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "falar To study"
+        },
+        {
+          "id": "l2",
+          "text": "Falar"
+        },
+        {
+          "id": "l3",
+          "text": "Estudar"
+        },
+        {
+          "id": "l4",
+          "text": "em, na"
+        },
+        {
+          "id": "l5",
+          "text": "na, no"
+        },
+        {
+          "id": "l6",
+          "text": "o"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Father” mean?",
+      "options": [
+        "Pai 2.",
+        "Pai 3.",
+        "Pai",
+        "Pai 1."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Mother” mean?",
+      "options": [
+        "Mãe",
+        "Mãe 1.",
+        "Mãe 3.",
+        "Mãe 2."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Brother” mean?",
+      "options": [
+        "Irmão 2.",
+        "Irmão",
+        "Irmão 1.",
+        "Irmão 3."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Sister” mean?",
+      "options": [
+        "Irmã 2.",
+        "Irmã 1.",
+        "Irmã",
+        "Irmã 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "You speak French You study French"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak with my friend I study with my sister"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak with my brother I study with my friend"
+    }
+  ]
+}

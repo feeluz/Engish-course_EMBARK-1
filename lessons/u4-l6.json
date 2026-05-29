@@ -1,0 +1,113 @@
+{
+  "id": "u4l6",
+  "title": "Unidade 4 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I drink coffee in the morning.\n• I eat cheese in the afternoon.\n• I work with my father.\n• I play the piano.\n• 4- I work with my friend at school"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink coffee in the morning."
+    },
+    {
+      "type": "dictation",
+      "text": "I eat cheese in the afternoon."
+    },
+    {
+      "type": "dictation",
+      "text": "I work with my father."
+    },
+    {
+      "type": "dictation",
+      "text": "I play the piano."
+    },
+    {
+      "type": "dictation",
+      "text": "4- I work with my friend at school"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "drink",
+        "coffee",
+        "in",
+        "the",
+        "morning",
+        "."
+      ],
+      "answer": "I drink coffee in the morning."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "eat",
+        "cheese",
+        "in",
+        "the",
+        "afternoon",
+        "."
+      ],
+      "answer": "I eat cheese in the afternoon."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "work",
+        "with",
+        "my",
+        "father",
+        "."
+      ],
+      "answer": "I work with my father."
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "there"
+        },
+        {
+          "id": "l2",
+          "text": "Portuguese"
+        },
+        {
+          "id": "l3",
+          "text": "teacher"
+        },
+        {
+          "id": "l4",
+          "text": "bread"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "at night"
+        },
+        {
+          "id": "l2",
+          "text": "alone"
+        },
+        {
+          "id": "l3",
+          "text": "now"
+        },
+        {
+          "id": "l4",
+          "text": "glass"
+        }
+      ]
+    }
+  ]
+}

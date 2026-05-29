@@ -1,0 +1,93 @@
+{
+  "id": "u8l4",
+  "title": "Unidade 8 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you want to go downtown with me tomorrow?\n• Do you want to sleep or study English now?\n• Do you drink coffee or tea in the morning?\n• What do you like to eat for breakfast?\n• 1- What do you eat for breakfast? / for lunch / for dinner."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to sleep or study English now?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you drink coffee or tea in the morning?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Cartões com um coração,",
+      "options": [
+        "Valentine cards with a heart, 3.",
+        "Valentine cards with a heart,",
+        "Valentine cards with a heart, 2.",
+        "heart, a with cards Valentine"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: são muito populares.",
+      "options": [
+        "are very popular.",
+        "are very popular 2.",
+        "are very popular 3.",
+        "popular very are."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: com festas na escola e em casa.",
+      "options": [
+        "home at and school at parties with.",
+        "with parties at school and at home 3.",
+        "with parties at school and at home.",
+        "with parties at school and at home 2."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "What",
+        "do",
+        "you",
+        "like",
+        "to",
+        "eat",
+        "for",
+        "breakfast",
+        "?"
+      ],
+      "answer": "What do you like to eat for breakfast?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        "What",
+        "do",
+        "you",
+        "eat",
+        "for",
+        "breakfast",
+        "?",
+        "for",
+        "lunch",
+        "for",
+        "dinner",
+        "."
+      ],
+      "answer": "1- What do you eat for breakfast? / for lunch / for dinner."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "u9l4",
+  "title": "Unidade 9 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• 1. What do you _______________________ to drink for dinner?\n• 2. Do you _______________________ with your sister?\n• 5. Do you _______________________ English at home?\n• 3- What do you like to study at school?\n• 5- Do you have time to study with me now?"
+    },
+    {
+      "type": "dictation",
+      "text": "1. What do you _______________________ to drink for dinner?"
+    },
+    {
+      "type": "dictation",
+      "text": "2. Do you _______________________ with your sister?"
+    },
+    {
+      "type": "dictation",
+      "text": "5. Do you _______________________ English at home?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu tenho que estudar Eu quero entender",
+      "options": [
+        "I have to study I want to understand 3.",
+        "You have to study I want to understand",
+        "understand to want I study to have I",
+        "I have to study I want to understand"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Você tem que dormir. Eu quero entender.",
+      "options": [
+        "You have to sleep I you want to understand Engl ish.",
+        "I have to sleep I you want to understand Engl ish.",
+        "You have to sleep You you want to understand Engl ish.",
+        "ish Engl understand to want you I sleep to have You."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu tenho que trabalhar. Eu tenho que entender Ch inês.",
+      "options": [
+        "Chinese understand to have I work to have I",
+        "I have to work I have to understand Chinese",
+        "I have to work I have to understand Chinese 3.",
+        "You have to work I have to understand Chinese"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "3",
+        "What",
+        "do",
+        "you",
+        "like",
+        "to",
+        "study",
+        "at",
+        "school",
+        "?"
+      ],
+      "answer": "3- What do you like to study at school?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "5",
+        "Do",
+        "you",
+        "have",
+        "time",
+        "to",
+        "study",
+        "with",
+        "me",
+        "now",
+        "?"
+      ],
+      "answer": "5- Do you have time to study with me now?"
+    }
+  ]
+}

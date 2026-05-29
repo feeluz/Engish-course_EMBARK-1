@@ -1,0 +1,86 @@
+{
+  "id": "u3l1",
+  "title": "Unidade 3 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 3: To Work / To Play. Read the sentences, listen, and repeat.\n\nExamples:\n• I work I play\n• You work You play\n• I work here I play soccer\n• You work there You play tennis"
+    },
+    {
+      "type": "dictation",
+      "text": "I work I play"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu trabalho Eu jogo",
+      "options": [
+        "I work I play 3.",
+        "I work I play",
+        "You work I play",
+        "play I work I"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "You work You play"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Você trabalha Você joga",
+      "options": [
+        "play You work You",
+        "You work You play 3.",
+        "You work You play",
+        "I work You play"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "dictation",
+      "text": "I work here I play soccer"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu trabalho aqui Eu jogo futebol",
+      "options": [
+        "I work here I play soccer",
+        "You work here I play soccer",
+        "I work here I play soccer 3.",
+        "soccer play I here work I"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "You",
+        "work",
+        "there",
+        "You",
+        "play",
+        "tennis"
+      ],
+      "answer": "You work there You play tennis"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "work",
+        "alone",
+        "I",
+        "play",
+        "volleyball",
+        "with",
+        "my",
+        "friend"
+      ],
+      "answer": "I work alone I play volleyball with my friend"
+    }
+  ]
+}

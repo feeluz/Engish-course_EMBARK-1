@@ -1,0 +1,50 @@
+{
+  "id": "u2l5",
+  "title": "Unidade 2 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu como pão e queijo / Eu não como presunto\n• Eu não bebo suco, obrigado. / Eu bebo refrigerante\n• Eu falo português com meu pai e com meu irmão\n• Boa tarde / Eu não estudo com seu filho\n• Eu falo inglês com meu pai e minha mãe agora"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu falo Eu estudo",
+      "answer": "I speak I study"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você fala Você estuda",
+      "answer": "You speak You study"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu falo Inglês Eu estudo inglês",
+      "answer": "I speak English I study English"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu falo Espanhol Eu estudo Espanhol",
+      "answer": "I speak Spanish I study Spanish"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você fala português Você estuda Português",
+      "answer": "You speak Portuguese You study Portuguese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você fala Francês Você estuda Francês",
+      "answer": "You speak French You study French"
+    },
+    {
+      "type": "dictation",
+      "text": "I speak I study"
+    },
+    {
+      "type": "dictation",
+      "text": "You speak You study"
+    }
+  ]
+}

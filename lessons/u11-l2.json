@@ -1,0 +1,124 @@
+{
+  "id": "u11l2",
+  "title": "Unidade 11 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• To need = precisar To prefer\n• To need = precisar\n• To prefer = preferir\n• Family = Família\n• City = Cidade\n• Farm = Fazenda\n• Rice = Arroz\n• Beans = Feijão"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To need"
+        },
+        {
+          "id": "l2",
+          "text": "To need"
+        },
+        {
+          "id": "l3",
+          "text": "To prefer"
+        },
+        {
+          "id": "l4",
+          "text": "Family"
+        },
+        {
+          "id": "l5",
+          "text": "City"
+        },
+        {
+          "id": "l6",
+          "text": "Farm"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "precisar To prefer"
+        },
+        {
+          "id": "l2",
+          "text": "precisar"
+        },
+        {
+          "id": "l3",
+          "text": "preferir"
+        },
+        {
+          "id": "l4",
+          "text": "Família"
+        },
+        {
+          "id": "l5",
+          "text": "Cidade"
+        },
+        {
+          "id": "l6",
+          "text": "Fazenda"
+        }
+      ]
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Rice” mean?",
+      "options": [
+        "Arroz 1.",
+        "Arroz",
+        "Arroz 3.",
+        "Arroz 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Beans” mean?",
+      "options": [
+        "Feijão 3.",
+        "Feijão",
+        "Feijão 1.",
+        "Feijão 2."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “Potato” mean?",
+      "options": [
+        "Batata",
+        "Batata 2.",
+        "Batata 1.",
+        "Batata 3."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "What does “When” mean?",
+      "options": [
+        "Quando",
+        "Quando 3.",
+        "Quando 1.",
+        "Quando 2."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "dictation",
+      "text": "When do you need to go there? I like my house ve ry much."
+    },
+    {
+      "type": "dictation",
+      "text": "When do you need to go downtown? I like my family very much."
+    },
+    {
+      "type": "dictation",
+      "text": "When do you need to go the store? I study in the city."
+    }
+  ]
+}

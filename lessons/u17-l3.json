@@ -1,0 +1,44 @@
+{
+  "id": "u17l3",
+  "title": "Unidade 17 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• I read I write\n• I read the newspaper I write many e-mails\n• I read the e-mail I write e-mails to my boyfrie nd\n• I read a magazine I write to my girlfriend\n• I read to my children I write an e-mail to my bo ss"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio o e-mail Eu escrevo e-mails para meu na morado",
+      "answer": "I read the e-mail I write e-mails to my boyfrie nd"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio uma revista Eu escrevo para minha namor ada",
+      "answer": "I read a magazine I write to my girlfriend"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu leio para os meus filhos Eu escrevo um e-mail para meu chefe",
+      "answer": "I read to my children I write an e-mail to my bo ss"
+    },
+    {
+      "type": "translation",
+      "prompt": "Que horas são?",
+      "answer": "What time is it?"
+    },
+    {
+      "type": "dictation",
+      "text": "What time is it?"
+    },
+    {
+      "type": "dictation",
+      "text": "I read I write"
+    },
+    {
+      "type": "dictation",
+      "text": "I read the newspaper I write many e-mails"
+    }
+  ]
+}

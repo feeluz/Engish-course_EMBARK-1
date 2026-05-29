@@ -1,0 +1,83 @@
+{
+  "id": "u1l1",
+  "title": "Unidade 1 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 1: To drink / To eat. Read the sentences, listen, and repeat.\n\nExamples:\n• Lesson 1\n• I drink I eat\n• You drink You eat\n• I drink water I eat bread"
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 1"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "To drink – beber To eat - comer",
+      "options": [
+        "Lesson 1 3.",
+        "Lesson 1 1.",
+        "Lesson 1 2.",
+        "Lesson 1"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "I drink I eat"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Eu bebo Eu como",
+      "options": [
+        "You drink I eat",
+        "I drink I eat",
+        "I drink I drink",
+        "eat I drink I"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "dictation",
+      "text": "You drink You eat"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Você bebe Você come",
+      "options": [
+        "You drink You eat",
+        "You drink You drink",
+        "I drink You eat",
+        "eat You drink You"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "drink",
+        "water",
+        "I",
+        "eat",
+        "bread"
+      ],
+      "answer": "I drink water I eat bread"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "drink",
+        "juice",
+        "I",
+        "eat",
+        "cheese"
+      ],
+      "answer": "I drink juice I eat cheese"
+    }
+  ]
+}

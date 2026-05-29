@@ -1,0 +1,95 @@
+{
+  "id": "u14l4",
+  "title": "Unidade 14 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you want to buy an ice cream or some bubble gum?\n• Do you want to sell your bicycle?\n• Do you need to work downtown today?\n• 21- Do you buy ice cream every day? / candy / chocolate.\n• 23- What do you want to buy now? / eat / drink."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to buy an ice cream or some bubble gum?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to sell your bicycle?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you need to work downtown today?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Hoje as crianças vestem roupas verdes",
+      "options": [
+        "Today children wear green clothes 2.",
+        "clothes green wear children Today",
+        "Today children wear green clothes 3.",
+        "Today children wear green clothes"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Quando as crianças esquecem de vestir verde,",
+      "options": [
+        "When children forget to wear green,",
+        "When children forget to wear green, 2.",
+        "When children forget to wear green, 3.",
+        "green, wear to forget children When"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: “In 1492 Columbus sailed the ocean blue”.",
+      "options": [
+        "Dia de Colombo 2.",
+        "Colombo de Dia",
+        "Dia de Colombo 3.",
+        "Dia de Colombo"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "21",
+        "Do",
+        "you",
+        "buy",
+        "ice",
+        "cream",
+        "every",
+        "day",
+        "?",
+        "candy",
+        "chocolate",
+        "."
+      ],
+      "answer": "21- Do you buy ice cream every day? / candy / chocolate."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "23",
+        "What",
+        "do",
+        "you",
+        "want",
+        "to",
+        "buy",
+        "now",
+        "?",
+        "eat",
+        "drink",
+        "."
+      ],
+      "answer": "23- What do you want to buy now? / eat / drink."
+    }
+  ]
+}

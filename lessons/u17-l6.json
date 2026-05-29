@@ -1,0 +1,119 @@
+{
+  "id": "u17l6",
+  "title": "Unidade 17 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• I read I write\n• I read the newspaper I write many e-mails\n• I read the e-mail I write e-mails to my boyfrie nd\n• I read a magazine I write to my girlfriend\n• I read to my children I write an e-mail to my bo ss"
+    },
+    {
+      "type": "dictation",
+      "text": "I read to my children I write an e-mail to my bo ss"
+    },
+    {
+      "type": "dictation",
+      "text": "What time is it?"
+    },
+    {
+      "type": "dictation",
+      "text": "I get up at seven thirty I work until five thirt y"
+    },
+    {
+      "type": "dictation",
+      "text": "To write - escrever"
+    },
+    {
+      "type": "dictation",
+      "text": "What time? Que horas?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "read",
+        "I",
+        "write"
+      ],
+      "answer": "I read I write"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "read",
+        "the",
+        "newspaper",
+        "I",
+        "write",
+        "many",
+        "e",
+        "mails"
+      ],
+      "answer": "I read the newspaper I write many e-mails"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "read",
+        "the",
+        "e",
+        "mail",
+        "I",
+        "write",
+        "e",
+        "mails",
+        "to",
+        "my",
+        "boyfrie",
+        "nd"
+      ],
+      "answer": "I read the e-mail I write e-mails to my boyfrie nd"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To read"
+        },
+        {
+          "id": "l2",
+          "text": "I read the e"
+        },
+        {
+          "id": "l3",
+          "text": "Eu leio o e"
+        },
+        {
+          "id": "l4",
+          "text": "To read"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "ler To write"
+        },
+        {
+          "id": "l2",
+          "text": "mail I write e"
+        },
+        {
+          "id": "l3",
+          "text": "mail Eu escrevo e"
+        },
+        {
+          "id": "l4",
+          "text": "ler"
+        }
+      ]
+    }
+  ]
+}

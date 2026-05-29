@@ -1,0 +1,103 @@
+{
+  "id": "u1l6",
+  "title": "Unidade 1 · Lição 6 – Review",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Review and listening",
+      "body": "Final practice for this workbook lesson. Listen, repeat, and review vocabulary.\n\nExamples:\n• Lesson 1\n• I drink I eat\n• You drink You eat\n• I drink water I eat bread\n• I drink juice I eat cheese"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink juice and soda I eat fish and meat"
+    },
+    {
+      "type": "dictation",
+      "text": "I eat bread and I drink milk I eat cheese and you eat ham"
+    },
+    {
+      "type": "dictation",
+      "text": "I eat cheese and I drink juice I drink milk and y ou drink coffee"
+    },
+    {
+      "type": "dictation",
+      "text": "I eat fish and I drink soda I eat bread and you eat cheese"
+    },
+    {
+      "type": "dictation",
+      "text": "He drinks / She eats"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "Lesson",
+        "1"
+      ],
+      "answer": "Lesson 1"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "I",
+        "drink",
+        "I",
+        "eat"
+      ],
+      "answer": "I drink I eat"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Review: put the sentence in order.",
+      "tokens": [
+        "You",
+        "drink",
+        "You",
+        "eat"
+      ],
+      "answer": "You drink You eat"
+    },
+    {
+      "type": "match",
+      "prompt": "Review vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "To drink"
+        },
+        {
+          "id": "l2",
+          "text": "To drink"
+        },
+        {
+          "id": "l3",
+          "text": "To eat"
+        },
+        {
+          "id": "l4",
+          "text": "Coffee"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "beber To eat"
+        },
+        {
+          "id": "l2",
+          "text": "beber, tomar"
+        },
+        {
+          "id": "l3",
+          "text": "comer"
+        },
+        {
+          "id": "l4",
+          "text": "Café Tea"
+        }
+      ]
+    }
+  ]
+}

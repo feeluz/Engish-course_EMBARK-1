@@ -1,0 +1,31 @@
+{
+  "id": "u18l1",
+  "title": "Unidade 18 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 18: Conversation 18. Read the sentences, listen, and repeat.\n\nExamples:\n• 10- What time do you get up every day? / go to bed / study"
+    },
+    {
+      "type": "dictation",
+      "text": "10- What time do you get up every day? / go to bed / study"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "11- Do you have a brother? / sister / boyfriend",
+      "options": [
+        "10- What time do you get up every day? / go to bed / study 3.",
+        "study / bed to go / day? every up get you do time What 10-",
+        "10- What time do you get up every day? / go to bed / study 2.",
+        "10- What time do you get up every day? / go to bed / study"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "10- What time do you get up every day? / go to bed / study"
+    }
+  ]
+}

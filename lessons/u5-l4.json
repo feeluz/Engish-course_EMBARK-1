@@ -1,0 +1,74 @@
+{
+  "id": "u5l4",
+  "title": "Unidade 5 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you like to study alone? I like study with y ou\n• Do you like to eat? I like to speak with you\n• 5- Do you play chess with your daughter every day?\n• 7- Do you like to speak English with me?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like to study alone? I like study with y ou"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you like to eat? I like to speak with you"
+    },
+    {
+      "type": "dictation",
+      "text": "5- Do you play chess with your daughter every day?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Você gosta de comer? Eu gosto de falar com você",
+      "options": [
+        "Do you like to drink? I like to speak with you",
+        "Do you like to eat? I like to speak with you",
+        "Do you like to eat? You like to speak with you",
+        "you with speak to like I eat? to like you Do"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Game – Jogo",
+      "options": [
+        "Casa - House",
+        "House - Casa 3.",
+        "House - Casa 2.",
+        "House - Casa"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: New – Novo",
+      "options": [
+        "Small - Pequeno",
+        "Small - Pequeno 3.",
+        "Small - Pequeno 2.",
+        "Pequeno - Small"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "7",
+        "Do",
+        "you",
+        "like",
+        "to",
+        "speak",
+        "English",
+        "with",
+        "me",
+        "?"
+      ],
+      "answer": "7- Do you like to speak English with me?"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "u12l4",
+  "title": "Unidade 12 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• Do you eat cheese or bread in the afternoon?\n• Do you want to go downtown with me tomorrow?\n• Do you work with your brother?\n• When do you like to go to the park?\n• 1- Where do you study? / work / play."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you eat cheese or bread in the afternoon?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to go downtown with me tomorrow?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "When",
+        "do",
+        "you",
+        "like",
+        "to",
+        "go",
+        "to",
+        "the",
+        "park",
+        "?"
+      ],
+      "answer": "When do you like to go to the park?"
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "1",
+        "Where",
+        "do",
+        "you",
+        "study",
+        "?",
+        "work",
+        "play",
+        "."
+      ],
+      "answer": "1- Where do you study? / work / play."
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    }
+  ]
+}

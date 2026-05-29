@@ -1,0 +1,74 @@
+{
+  "id": "u7l4",
+  "title": "Unidade 7 · Lição 4 – Conversation",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Conversation practice",
+      "body": "Answer aloud first. Then complete the exercises.\n\nExamples:\n• How do you spell your name?\n• 4- Do you want to speak with your boss now?\n• 6- Do you want to go to church with me this week?\n• 7- What do you like to drink for dinner?"
+    },
+    {
+      "type": "dictation",
+      "text": "How do you spell your name?"
+    },
+    {
+      "type": "dictation",
+      "text": "4- Do you want to speak with your boss now?"
+    },
+    {
+      "type": "dictation",
+      "text": "6- Do you want to go to church with me this week?"
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu quero estudar Francês. Eu quero ir ao centro.",
+      "options": [
+        "I want to study French. I want to go downtown.",
+        "You want to study French. I want to go downtown.",
+        "I want to study French. I want to go downtown 3.",
+        "downtown go to want I French study to want I."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Eu quero trabalhar à noite Eu quero ir para casa.",
+      "options": [
+        "home go to want I night at work to want I.",
+        "You want to work at night. I want to go home.",
+        "I want to work at night. I want to go home.",
+        "I want to work at night. I want to go home 3."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "Choose the English sentence for: Como se escreve/soletra seu nome?",
+      "options": [
+        "How do you spell your name? 2.",
+        "name? your spell you do How",
+        "How do you spell your name? 3.",
+        "How do you spell your name?"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Build the question.",
+      "tokens": [
+        "7",
+        "What",
+        "do",
+        "you",
+        "like",
+        "to",
+        "drink",
+        "for",
+        "dinner",
+        "?"
+      ],
+      "answer": "7- What do you like to drink for dinner?"
+    }
+  ]
+}

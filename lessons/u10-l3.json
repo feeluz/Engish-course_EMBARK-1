@@ -1,0 +1,43 @@
+{
+  "id": "u10l3",
+  "title": "Unidade 10 · Lição 3 – Grammar",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Grammar focus",
+      "body": "Use the structure from the workbook. Pay attention to word order, negatives, and questions.\n\nExamples:\n• Do you understand Spanish?\n• 2- Do you speak English at home? / Portuguese / French\n• 5- Do you want to go to the movies today? / park / downtown\n• 2- Do you __________________________________________________________________\n• 4- I understand Spanish"
+    },
+    {
+      "type": "translation",
+      "prompt": "6- Do you drink coffee and milk for breakfast? coffee – juice / tea – juice",
+      "answer": "5- Do you want to go to the movies today? / park / downtown"
+    },
+    {
+      "type": "translation",
+      "prompt": "3- I don’t ___________________________________________________________________",
+      "answer": "2- Do you __________________________________________________________________"
+    },
+    {
+      "type": "translation",
+      "prompt": ", but I don’t understand German",
+      "answer": "4- I understand Spanish"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you understand Spanish?"
+    },
+    {
+      "type": "dictation",
+      "text": "2- Do you speak English at home? / Portuguese / French"
+    },
+    {
+      "type": "dictation",
+      "text": "5- Do you want to go to the movies today? / park / downtown"
+    }
+  ]
+}

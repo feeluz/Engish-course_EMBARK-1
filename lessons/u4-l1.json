@@ -1,0 +1,84 @@
+{
+  "id": "u4l1",
+  "title": "Unidade 4 · Lição 1 – Patterns",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Study the pattern",
+      "body": "Workbook lesson 4: Conversation 4. Read the sentences, listen, and repeat.\n\nExamples:\n• I drink coffee in the morning.\n• I eat cheese in the afternoon.\n• I work with my father.\n• I play the piano."
+    },
+    {
+      "type": "dictation",
+      "text": "I drink coffee in the morning."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don’t drink coffee in the morning, but I drink tea.",
+      "options": [
+        "I drink coffee in the morning 3.",
+        "You drink coffee in the morning.",
+        "morning the in coffee drink I.",
+        "I drink coffee in the morning."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "I eat cheese in the afternoon."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don’t eat cheese in the afternoon, but I eat bread and ham.",
+      "options": [
+        "afternoon the in cheese eat I.",
+        "I drink cheese in the afternoon.",
+        "You eat cheese in the afternoon.",
+        "I eat cheese in the afternoon."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "dictation",
+      "text": "I work with my father."
+    },
+    {
+      "type": "multiple_choice",
+      "prompt": "I don’t work with my father, but I work with my brother.",
+      "options": [
+        "father my with work I.",
+        "I work with my father 3.",
+        "You work with my father.",
+        "I work with my father."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "I",
+        "play",
+        "the",
+        "piano",
+        "."
+      ],
+      "answer": "I play the piano."
+    },
+    {
+      "type": "scramble",
+      "prompt": "Put the sentence in order.",
+      "tokens": [
+        "4",
+        "I",
+        "work",
+        "with",
+        "my",
+        "friend",
+        "at",
+        "school"
+      ],
+      "answer": "4- I work with my friend at school"
+    }
+  ]
+}

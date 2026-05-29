@@ -1,0 +1,84 @@
+{
+  "id": "u14l2",
+  "title": "Unidade 14 · Lição 2 – Vocabulary",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Vocabulary",
+      "body": "Memorize the words from the workbook. Match English with Portuguese.\n\nExamples:\n• breakfast = shoe\n• dress = pants\n• bubble gum = money\n• pencil = french fries\n• cup = cheese"
+    },
+    {
+      "type": "match",
+      "prompt": "Match the vocabulary.",
+      "left": [
+        {
+          "id": "l1",
+          "text": "breakfast"
+        },
+        {
+          "id": "l2",
+          "text": "dress"
+        },
+        {
+          "id": "l3",
+          "text": "bubble gum"
+        },
+        {
+          "id": "l4",
+          "text": "pencil"
+        },
+        {
+          "id": "l5",
+          "text": "cup"
+        }
+      ],
+      "right": [
+        {
+          "id": "l1",
+          "text": "shoe"
+        },
+        {
+          "id": "l2",
+          "text": "pants"
+        },
+        {
+          "id": "l3",
+          "text": "money"
+        },
+        {
+          "id": "l4",
+          "text": "french fries"
+        },
+        {
+          "id": "l5",
+          "text": "cheese"
+        }
+      ]
+    },
+    {
+      "type": "dictation",
+      "text": "He used a three leaf-clover to teach the Trinity."
+    },
+    {
+      "type": "dictation",
+      "text": "Today children wear green clothes"
+    },
+    {
+      "type": "dictation",
+      "text": "When children forget to wear green,"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you want to sell your bicycle?"
+    },
+    {
+      "type": "dictation",
+      "text": "21- Do you buy ice cream every day? / candy / chocolate."
+    },
+    {
+      "type": "dictation",
+      "text": "St. Patrick"
+    }
+  ]
+}

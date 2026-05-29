@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Entrar — Inglês na Barca</title>
+<style>
+body{
+  margin:0;
+  font-family:Arial,sans-serif;
+  background:linear-gradient(180deg,#07155f,#123fb8);
+  color:white;
+}
+.wrap{max-width:460px;margin:60px auto;padding:20px}
+.card{
+  background:rgba(255,255,255,.12);
+  border:1px solid rgba(255,255,255,.18);
+  border-radius:24px;
+  padding:24px;
+  box-shadow:0 16px 40px rgba(0,0,0,.25)
+}
+h1,h2{margin:0 0 10px}
+p{color:rgba(255,255,255,.85)}
+input{
+  width:100%;
+  padding:12px;
+  border:none;
+  border-radius:12px;
+  margin:8px 0;
+  box-sizing:border-box;
+}
+button,.btn{
+  width:100%;
+  padding:12px;
+  border:none;
+  border-radius:12px;
+  margin-top:10px;
+  font-size:16px;
+  font-weight:700;
+  cursor:pointer;
+  text-decoration:none;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  box-sizing:border-box;
+}
+.primary{background:white;color:#08225e}
+.secondary{background:rgba(255,255,255,.12);color:white;border:1px solid rgba(255,255,255,.2)}
+.row{display:flex;gap:10px}
+.msg{margin-top:12px;padding:10px 12px;border-radius:12px;display:none}
+.msg.show{display:block}
+.msg.error{background:#fee2e2;color:#7f1d1d}
+.msg.ok{background:#dcfce7;color:#14532d}
+.small{font-size:14px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="card">
+    <h1>🚢 Inglês na Barca</h1>
+    <p>Entre na plataforma do aluno.</p>
+    <input id="email" type="email" placeholder="Seu email">
+    <input id="password" type="password" placeholder="Sua senha">
+    <button class="primary" id="loginBtn">Entrar</button>
+    <div class="row">
+      <a class="btn secondary" href="register.html">Criar conta</a>
+      <a class="btn secondary" href="dashboard.html">Dashboard</a>
+    </div>
+    <div id="msg" class="msg"></div>
+    <p class="small">Antes de publicar, troque <strong>PASTE_API_KEY</strong> em <strong>firebase-config.js</strong>.</p>
+  </div>
+</div>
+<script type="module">
+import { setupLogin } from "./auth-ui.js";
+setupLogin();
+</script>
+</body>
+</html>

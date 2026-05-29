@@ -1,0 +1,25 @@
+{
+  "id": "u12l5",
+  "title": "Unidade 12 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu tenho uma casa nova na fazenda\n• Eu não gosto de estudar alemão nos fins de semana.\n• Eu não quero ir ao parque com meus filhos\n• Você tem algum tempo para ir ao mercado comigo?\n• O que você come no café da manhã?"
+    },
+    {
+      "type": "translation",
+      "prompt": "I don’t work with my brother. I work alone.",
+      "answer": "Do you work with your brother?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    },
+    {
+      "type": "dictation",
+      "text": "Do you work with your brother?"
+    }
+  ]
+}

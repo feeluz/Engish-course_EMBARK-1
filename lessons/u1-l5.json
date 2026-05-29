@@ -1,0 +1,50 @@
+{
+  "id": "u1l5",
+  "title": "Unidade 1 · Lição 5 – Written Practice",
+  "source": "BOOK 1 workbook",
+  "items": [
+    {
+      "type": "info",
+      "title": "Written practice",
+      "body": "Translate the workbook prompts into English. Use the patterns you studied.\n\nExamples:\n• Eu bebo / Eu como / Comer / Beber\n• Eu bebo suco / Eu como carne / Obrigado\n• Eu como peixe e bebo água/ tchau\n• Oi / Eu bebo café / Por favor\n• Olá / Eu como pão e queijo"
+    },
+    {
+      "type": "translation",
+      "prompt": "To drink – beber To eat - comer",
+      "answer": "Lesson 1"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu bebo Eu como",
+      "answer": "I drink I eat"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você bebe Você come",
+      "answer": "You drink You eat"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu bebo água Eu como pão",
+      "answer": "I drink water I eat bread"
+    },
+    {
+      "type": "translation",
+      "prompt": "Eu bebo suco Eu como queijo",
+      "answer": "I drink juice I eat cheese"
+    },
+    {
+      "type": "translation",
+      "prompt": "Você bebe café Você come peixe",
+      "answer": "You drink coffee You eat Fish"
+    },
+    {
+      "type": "dictation",
+      "text": "Lesson 1"
+    },
+    {
+      "type": "dictation",
+      "text": "I drink I eat"
+    }
+  ]
+}
